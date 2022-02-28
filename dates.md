@@ -6,7 +6,7 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-ARR attempts to adhere to the following (tight) reviewing timeline. 
+ARR attempts to adhere to the following (tight) reviewing timeline. Note that all ARR deadlines are 11:59pm AOE!
 
 Within each month, on:
 - day 0 - submission deadline
