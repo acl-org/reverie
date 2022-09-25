@@ -14,7 +14,7 @@ If you want general support regarding ARR, please contact `support at aclrolling
 - Goran Glavaš, University of Würzburg
 - Sebastian Riedel, Facebook AI and University College London
 - Thamar Solorio, Bloomberg LP and University of Houston
-- Amanda Stent, Colby College
+- Lilja Øvrelid, University of Oslo
 
 Contact: `editors at aclrollingreview.org`
 
@@ -25,12 +25,13 @@ Contact: `editors at aclrollingreview.org`
 ## Technical Staff
 
 - Graham Neubig, Carnegie Mellon University (Chief Technical Officer)
-- Jonathan Kummerfeld, University of Sydney (Co-CTO)
+- Jonathan K. Kummerfeld, University of Sydney (Co-CTO)
 - Nils Dycke, TU Darmstadt
 - Pengfei Liu, Carnegie Mellon University
 - Yoshitomo Matsubara, UC Irvine
 - Dhruv Naik, Carnegie Mellon University
 - Sebastin Santy, University of Washington
+- Amanda Stent, Colby College
 
 Contact: `tech at aclrollingreview.org`
 
@@ -186,7 +187,6 @@ Contact: `mentorship@aclrollingreview.org`
 - Johannes Daxenberger, summetix GmbH
 - John Lawrence, University of Dundee
 - John M Conroy, Institute for Defense Analyses, Center for Computing Sciences
-- Jonathan K Kummerfeld, University of Michigan
 - Joonsuk Park, University of Richmond
 - Jose Camacho-Collados, Cardiff University
 - Jose Ochoa-Luna
