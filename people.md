@@ -10,7 +10,6 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 ## Editors in Chief
 
-- Goran Glavaš, University of Würzburg
 - Lilja Øvrelid, University of Oslo
 - Mausam, IIT Delhi
 - Sebastian Riedel, Facebook AI and University College London
