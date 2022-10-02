@@ -10,11 +10,12 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 ## Editors in Chief
 
-- Mausam, IIT Delhi
 - Goran Glavaš, University of Würzburg
+- Lilja Øvrelid, University of Oslo
+- Mausam, IIT Delhi
 - Sebastian Riedel, Facebook AI and University College London
 - Thamar Solorio, Bloomberg LP and University of Houston
-- Lilja Øvrelid, University of Oslo
+- Viviane Moreira, Universidade Federal do Rio Grande do Sul
 
 Contact: `editors at aclrollingreview.org`
 
