@@ -28,7 +28,7 @@ Contact: `editors at aclrollingreview.org`
 - Jonathan K. Kummerfeld, University of Sydney (Co-CTO)
 - Nils Dycke, TU Darmstadt
 - Pengfei Liu, Carnegie Mellon University
-- Yoshitomo Matsubara, UC Irvine
+- Yoshitomo Matsubara, Amazon Alexa AI
 - Dhruv Naik, Carnegie Mellon University
 - Sebastin Santy, University of Washington
 - Amanda Stent, Colby College
