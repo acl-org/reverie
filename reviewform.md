@@ -45,7 +45,7 @@ Would you personally like to see this paper presented at an *ACL event that invi
 
 ### Best Paper
 
-Could this be a best paper in a top-tier *ACL venue?
+Could the camera-ready version of this paper merit consideration for an 'outstanding paper' award (up to 2.5% of accepted papers at *ACL conferences will be recognized in this way)? Outstanding papers should be either fascinating, controversial, surprising, impressive, or potentially field-changing. Awards will be decided based on the camera-ready version of the paper.
 
 * Yes
 * Maybe
