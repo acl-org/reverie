@@ -4,16 +4,9 @@ title: "For Authors"
 permalink: /authors
 ---
 
-TODO:
-- Check submissionform has the right text for reassignment requests
+TODO: Check submissionform has the right text for reassignment requests
 
-Quick links:
-* [Authors' Guide to OpenReview](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing)
-* [Responsible NLP Research Checklist](https://aclrollingreview.org/responsibleNLPresearch)
-* [Author Checklist](/authorchecklist)
-  * [Submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
-  * [Responsible NLP research template](https://aclrollingreview.org/Responsible%20NLP%20Research%20Checklist%20-%20Fillable%20form.zip)
-* [2023 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023)
+_*Quick links: [2023 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023) * [How to Submit on OpenReview](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing)*_
 
 This page contains a step-by-step guide and FAQ for authors who wish to have their work reviewed by ARR:
 - Step 0: Is ARR right for your paper?
@@ -45,9 +38,9 @@ Some caveats:
 There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm.
 
 The [submission form](/submissionform) asks for:
-- The PDF of your paper, adhering to [the submission guidelines](/cfp)
+- The PDF of your paper, adhering to [the submission guidelines](/cfp), including the formatting in the [submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
 - Optional: supplementary materials, including software and/or code
-- A responsible research checklist
+- [A responsible research checklist](/responsibleNLPresearch)
 - A short sentence describing your paper
 - Select tracks from the list in [the CFP](/cfp)
 - URLs for any non-anonymous preprints
@@ -65,6 +58,7 @@ All submitted materials must be **anonymized**. Submissions and any supplementar
 Before submitting, ensure that:
 - Your paper is not already under review, published, or on track to be published at any archival venue. ("Under review" includes papers for which prior ARR reviews have been committed to a venue, and a decision is pending--see Step 5.)
 - You have not posted a non-anonymous preprint of your paper or widely advertised it in the 1 month prior to the submission deadline. (See the [ACL Policies on Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) and the [FAQ below](#faq))
+- Your paper satisfies everything in the [author checklist](/authorchecklist)
 
 At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors.
 
