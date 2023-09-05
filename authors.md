@@ -4,19 +4,17 @@ title: "For Authors"
 permalink: /authors
 ---
 
-TODO: Check submissionform has the right text for reassignment requests
-
-_*Quick links: [2023 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023) * [How to Submit on OpenReview](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing)*_
+***Quick links: [2023 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023) * [How to Submit on OpenReview](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing)***
 
 This page contains a step-by-step guide and FAQ for authors who wish to have their work reviewed by ARR:
-- Step 0: Is ARR right for your paper?
-- Step 1: Submit your paper for ARR review
-- Step 2: Wait for reviews
-- Step 3: Receive reviews and choose next step
-- Step 4: Resubmit for another round of review (optional)
-- Step 5: Commitment
-- Step 6: Camera-ready
-- Frequently Asked Questions
+- [Step 0](#step0): Is ARR right for your paper?
+- [Step 1](#step1): Submit your paper for ARR review
+- [Step 2](#step2): Wait for reviews
+- [Step 3](#step3): Receive reviews and choose next step
+- [Step 4](#step4): Resubmit for another round of review (optional)
+- [Step 5](#step5): Commitment
+- [Step 6](#step6): Camera-ready
+- [Frequently Asked Questions](#faq)
 
 There is also a video presentation of what authors need to know about ARR: <https://www.youtube.com/watch?v=DaoCLEghXyU>.
 
@@ -30,7 +28,7 @@ ARR provides reviews--and only reviews--for submissions. The reviews will not be
 - Submissions must not be under review, published, or on track to be published in another (archival) venue
 
 Some caveats:
-- System demonstrations should NOT be submitted to ARR. Conferences typically have a separate review process for them with different policies. If you do submit a paper to ARR that describes a system, it will be reviewed as a normal main conference paper and your reviews will only be eligible for commitment to venues listed on our venues page (which does not include system demonstration tracks at conferences).
+- System demonstrations should NOT be submitted to ARR. Conferences typically have a separate review process for them with different policies (e.g., different paper lengths and single-blind submissions). If you do submit a paper to ARR that describes a system, it will be reviewed as a normal main conference paper and your reviews will only be eligible for commitment to venues listed on our venues page (which does not include system demonstration tracks at conferences).
 - If you intend to send your paper to a workshop or to a more specialized conference like CoNLL, \*SEM, INLG, etc., check whether it is listed on [the venues page](/dates). If not, there may be venue-specific review processes.
 - Some venues are hybrid, meaning they will consider ARR-reviewed papers as well as direct submissions.
 
@@ -69,7 +67,7 @@ You may **withdraw** your submission during this period (before it receives a me
 
 A submission may be **desk rejected** if the topic or style of contribution is not suited to ARR, or for a technical violation of the submission requirements--e.g., accidentally revealing the authors' identities, exceeding the page limit, or otherwise failing to adhere to the style guidelines. Desk rejection can occur at any point in the review cycle. If a technical violation is discovered, the paper can be submitted afresh in the next review cycle (the desk-rejected version does not count as a prior submission).
 
-Once the main reviews are available you will receive the opportunity to submit an **author response**. The exact timing varies by cycle and will be listed on [the dates and venues page](/dates). The intention of this is to clarify any misunderstandings or confusions on the part of the reviewers (not to reargue the case for your paper). There is no requirement to respond. The meta-review will be written taking your response (if any) into account.
+Once the main reviews are available you will receive the opportunity to submit an **author response**. The exact timing varies by cycle and is listed on [the dates and venues page](/dates). The intention of this is to clarify any misunderstandings or confusions on the part of the reviewers (not to reargue the case for your paper). There is no requirement to respond. Your response will immediately be visible to the reviewers, but they will not edit their reviews until after the author response period ends (i.e., there will be no back-and-forth conversation like in NeurIPS and ICLR). The meta-review will be written taking your response (if any) into account.
 
 # Step 3: Receive reviews and choose next step {#step3}
 Once the final reviews (including the meta-review) are delivered, you will know how the paper has been evaluated. There will be at least 3 reviews and a meta-review. Each [review](/reviewform) will provide text and scores conveying the reviewer's impressions of the paper and suggestions for improvement. The [meta-review](/actioneditorform) will give an overall impression from the Action Editor's perspective and indicate whether the paper would benefit from revision or whether it might merit publication in its current form.
@@ -101,7 +99,7 @@ Some things to consider:
 - If you felt the previous-round reviews were constructive, consider asking for the same reviewers. If you satisfactorily addressed their concerns in the revision, they will likely improve their evaluation of the paper.
     - ARR will attempt to reassign the same reviewers if requested. Because of availability constraints, it is still possible that you will receive some new reviewers.
 - If you felt the previous-round reviews reflected a lack of expertise or engagement with the topic of your paper, consider asking for new reviewers.
-    - A request for new reviewers will generally be honored--it does not require an explanation and will not be considered a mark against the paper. (We understand that a certain amount of subjectivity is present in reviewing and want to give papers a fair shot at brand new reviews.)
+    - Generally we accept such requests, but the expectation is that papers have been revised based on the earlier reviews and it is up to the discretion of the action editors or editors in chief whether the request is granted. This request is not considered a mark against the paper. (We understand that a certain amount of subjectivity is present in reviewing and want to give papers a fair shot at brand new reviews.)
     - New reviewers will not see the prior reviews initially. Only after they submit their own review will they have access to the prior reviews (new in August 2023).
 - A revision does not have to accept every suggestion of every reviewer. Reviewers understand that there are limitations on what can be accomplished in a single paper. We recommend engaging with reviewers' constructive feedback in the explanation of revisions. Even if you request new reviewers, they will have access to reviews from previous rounds after submitting their own reviews, so ignoring good advice is not recommended.
 
@@ -168,7 +166,7 @@ Note, for arXiv, the timings above refer to when your paper is submitted to arXi
 **Q: I submitted to ICLR, but want to withdraw my paper to submit to ARR. This withdrawal will cause my paper to become deanonymized. Is that OK?** <br />
 A: If a non-anonymous version of the paper was made publicly available before the ARR anonymity period, it is OK to withdraw from ICLR and submit to ARR. However, if de-anonymization on withdrawal from ICLR results in the paper being de-anonymized for the first time during the anonymity period, the paper would violate the ARR anonymity policies.
 
-## Contributing to Paper and Review Dataset
+## Contributing to the Paper and Review Dataset
 
 **Q: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?** <br />
 A: The ACL Exec has approved the creation of [an opt-in corpus of submissions and reviews](https://aclweb.org/adminwiki/index.php?title=Review_Data_Collection_at_*ACL). This corpus is being assembled by a group separate from the ARR editorial team. The review meta-data associated with your submission, i.e. scores, anonymous reviewer identifiers etc., will only be included if both you and the reviewers agree. Submission and review texts are not included in this consent and are handled separately. Note: Currently, this data is not processed or collected.
