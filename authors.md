@@ -16,12 +16,12 @@ This page contains a step-by-step guide and FAQ for authors who wish to have the
 - [Step 6](#step6): Camera-ready
 - [Frequently Asked Questions](#faq)
 
-There is also a video presentation of what authors need to know about ARR: <https://www.youtube.com/watch?v=DaoCLEghXyU>.
+We have also created a detailed video presentation covering this information: <https://www.youtube.com/watch?v=DaoCLEghXyU>.
 
 # Step 0: Is ARR right for your paper? {#step0}
 ARR provides reviews--and only reviews--for submissions. The reviews will not be specific to a conference/venue, but the standards expected by reviewers are those of a traditional direct submission as a long or short main conference paper to ACL (or the other major conferences operated by the ACL).
 - Short papers (up to 4 pages) as well as long papers (up to 8 pages)
-- All NLP/computational linguistics topics are within scope. See the CFP for example areas.
+- All NLP/computational linguistics topics are within scope. See [the CFP](/cfp) for example areas.
 - Empirical papers, theoretical papers, resource papers, application papers, opinion pieces, and surveys
 - Submissions must be anonymous
 - Submissions must be original work
@@ -36,13 +36,13 @@ Some caveats:
 There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm.
 
 The [submission form](/submissionform) asks for:
-- The PDF of your paper, adhering to [the submission guidelines](/cfp), including the formatting in the [submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
+- The PDF of your paper, adhering to [the submission guidelines](/cfp), including the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
 - Optional: supplementary materials, including software and/or code
 - [A responsible research checklist](/responsibleNLPresearch)
 - A short sentence describing your paper
 - Select tracks from the list in [the CFP](/cfp)
 - URLs for any non-anonymous preprints
-- [for resubmissions] The link to your previous submission
+- [for resubmissions] The link to your previous submission (e.g., https://openreview.net/forum?id=abcd1234)
 - [for resubmissions] A PDF describing how you changed your paper in response to the reviews
 
 Submissions are made in **OpenReview**: [submission points for 2023](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023). In case of system instability it is recommended to submit at least one hour before the deadline. All authors will receive a confirmation email upon submission.
@@ -51,17 +51,17 @@ You may **edit** all aspects of your submission up until the deadline.
 
 All authors must be **registered** in OpenReview. Your OpenReview profile must be up to date (including affiliations and a recent import of any DBLP-listed publications) to aid in the detection of conflicts of interest.
 
-All submitted materials must be **anonymized**. Submissions and any supplementary materials must not include authors' names and affiliations, or the acknowledgments section. Self-references that reveal the authors' identities must be avoided. The submissions should avoid links to non-anonymized repositories: the code should be either submitted as supplementary material (zip or tgz files), or as a link to an anonymized repository (e.g., [Anonymous GitHub](https://anonymous.4open.science/) and [ANONYM SHARE](https://anonymshare.com/)). Please avoid any links to storage services like Dropbox (which may track the reviewers downloading the resources).
+All submitted materials must be **anonymized**. Submissions and any supplementary materials must not include authors' names and affiliations, or the acknowledgments section. Self-references that reveal the authors' identities must be avoided. The submissions should not have links to non-anonymized repositories: the code should be either submitted as supplementary material (zip or tgz files), or as a link to an anonymized repository (e.g., [Anonymous GitHub](https://anonymous.4open.science/) and [ANONYM SHARE](https://anonymshare.com/)). Please avoid any links to storage services like Dropbox (which may track the reviewers downloading the resources).
 
 Before submitting, ensure that:
 - Your paper is not already under review, published, or on track to be published at any archival venue. ("Under review" includes papers for which prior ARR reviews have been committed to a venue, and a decision is pending--see Step 5.)
-- You have not posted a non-anonymous preprint of your paper or widely advertised it in the 1 month prior to the submission deadline. (See the [ACL Policies on Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) and the [FAQ below](#faq))
+- You have not posted a non-anonymous preprint of your paper or widely advertised it in the 1 month prior to the submission deadline. (See the [ACL Policies on Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) and the [FAQ below](#anon))
 - Your paper satisfies everything in the [author checklist](/authorchecklist)
 
-At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors.
+At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors (see [People](\people)).
 
 # Step 2: Wait for reviews {#step2}
-As soon as you have submitted your paper it is considered **under review** by ARR. You may not submit the paper elsewhere during this period, nor submit/update a nonanonymous preprint or widely publicize the work while it remains under review.
+As soon as you have submitted your paper it is considered **under review** by ARR. You may not submit the paper elsewhere during this period, nor submit/update a non-anonymous preprint or widely publicize the work while it is under review.
 
 You may **withdraw** your submission during this period (before it receives a meta-review), but if you do so more than 48 hours after the submission deadline, your paper will be ineligible for resubmission in the next cycle. Contact the editors if you encounter special circumstances and are not sure whether withdrawal is appropriate. To withdraw, log into OpenReview, select your submission and then click on the "trash can" icon in the top right.
 
@@ -74,10 +74,10 @@ Once the final reviews (including the meta-review) are delivered, you will know 
 
 You have several choices for the next step of the paper:
 
-- Quickly address reviewer feedback, and submit a revision to the **next ARR review deadline** (~1 week). - Step 4
-- Spend more time on revisions and submit to **a subsequent ARR deadline** (2+ months). Note that with this option, there is a period when your paper is not under review. You are allowed to release a preprint or discuss it publicly in that period, up until a month before you submit again. - Step 4
+- Quickly address reviewer feedback, and submit a revision to the **next ARR review deadline** (~1 week). -> Step 4
+- Spend more time on revisions and submit to **a subsequent ARR deadline** (2+ months). Note that with this option, there is a period when your paper is not under review. You are allowed to release a preprint or discuss it publicly in that period, up until a month before you submit again. -> Step 4
+- **Commit the reviews to an ARR venue** for a decision on acceptance. -> Step 5
 - Submit for **direct (i.e. non-ARR) review** by a venue. If you are submitting to a venue that has both direct submissions and ARR submissions, see their policies for how to go from ARR reviewing to being directly reviewed. Note that venues may have other restrictions: for example, [TACL](https://transacl.org/index.php/tacl/about/submissions) requires a 9 month gap between submission to ARR and submission to TACL.
-- **Commit the reviews to an ARR venue** for a decision on acceptance. - Step 5
 
 **These options are mutually exclusive**: you cannot submit a revision and in parallel commit to a venue, for example. See [the CFP](/cfp) for all of the rules on dual submissions.
 
@@ -89,6 +89,7 @@ Considerations:
 If you can see ways to markedly improve your paper or are unhappy with your reviews, consider revising it and resubmitting to a subsequent ARR review cycle.
 
 Here you submit the same information as Step 1, as well as:
+- The link to your previous submission (e.g., https://openreview.net/forum?id=abcd1234)
 - An explanation of revisions that responds to reviews from the previous round
 - A preference regarding reviewers: same or all new
 - A preference regarding the meta-reviewer: same or new
@@ -103,20 +104,20 @@ Some things to consider:
     - New reviewers will not see the prior reviews initially. Only after they submit their own review will they have access to the prior reviews (new in August 2023).
 - A revision does not have to accept every suggestion of every reviewer. Reviewers understand that there are limitations on what can be accomplished in a single paper. We recommend engaging with reviewers' constructive feedback in the explanation of revisions. Even if you request new reviewers, they will have access to reviews from previous rounds after submitting their own reviews, so ignoring good advice is not recommended.
 
-Once you have submitted the revision, the status loops back to Step 2 above.
+Once you have submitted the revision, you return to Step 2 above.
 
 # Step 5: Commitment {#step5}
 Once the paper has received complete reviews (including a meta-review), and is no longer under review by ARR, it is eligible for submission to a venue for a decision on acceptance. This submission is called **commitment**.
 
-Commitment occurs through a submission form set up by the PCs of the venue (e.g., in Softconf, OpenReview, or a Microsoft / Google Form). The form asks for information about the paper, including the ARR URL for the paper (e.g., https://openreview.net/forum?id=wqDbRvHrRq where "wqDbRvHrRq" is a random string unique to your paper). After the commitment deadline, ARR provides the reviews to the venue and they make a decision. The venue will contact authors directly to notify you of accept/reject decisions.
+Commitment occurs through a submission form set up by the PCs of the venue (e.g., in Softconf, OpenReview, or a Microsoft / Google Form). The form asks for information about the paper, including the ARR URL for the paper (e.g., https://openreview.net/forum?id=abcd1234 where "abcd1234" is a random string unique to your paper). After the commitment deadline, ARR provides the reviews to the venue and they make a decision. The venue will contact authors directly to notify you of accept/reject decisions.
 
-Different venues have different commitment deadlines, and therefore, different commitment periods when the paper is under consideration by a venue. ARR does not place any restrictions on committing to multiple venues simultaneously, or committing to one venue and submitting for direct review at another venue. However, venues typically do not permit that.
+Different venues have different commitment deadlines, and therefore, different commitment periods when the paper is under consideration by a venue. ARR does not place any restrictions on committing to multiple venues simultaneously, or committing to one venue and submitting for direct review at another venue. However, venues typically do not permit these types of dual commitments / submissions.
 
 The commitment period is also subject to **anonymity** requirements: during the commitment period and for the 1 month prior to the commitment deadline, you may not submit/update a nonanonymous preprint of the paper or publicize it widely.
 
 The commitment phase ends when the paper is no longer under consideration by any venue--either due to withdrawal or due to receiving a decision of acceptance or rejection.
 
-If the paper is accepted, it is no longer eligible for further rounds of review at ARR. (Whether you can commit to additional venues is up to the policies of those venues.) - Step 6
+If the paper is accepted, it is no longer eligible for further rounds of review at ARR. (Whether you can commit to additional venues is up to the policies of those venues.) -> Step 6
 
 If the commitment phase ends without an acceptance, the state of the paper returns to Step 3. That is, it can be committed to another venue, resubmitted for review at ARR, or submitted elsewhere for review.
 
@@ -135,15 +136,15 @@ A: ARR implements the review stage but not the final acceptance recommendation/d
 For EACL 2024, ACL 2024, and NAACL 2024, note that deadlines are structured such that reviews after the submission deadline cycle can be be immediately committed for consideration by the conference--in which case the total time from submission to decision will be ~3 months, which is similar to the traditional conference review process (if not shorter).
 
 **Q: Since reviews follow the paper when it is resubmitted, isn't there a risk that getting unlucky with reviewers in the first round will doom the paper?** <br />
-A: For a resubmission (Step 4), authors have the option to request new reviewers, ensuring the paper gets a fresh look. While the old reviews will technically still be associated with the paper, to avoid [anchoring biases](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)), a new reviewer will only have access to them after submitting their own review. Moreover, authors have the opportunity to respond to any problems that they perceive with the previous-round reviews.
+A: For a resubmission (Step 4), authors have the option to request new reviewers, ensuring the paper gets a fresh look. While the old reviews will still be associated with the paper, to avoid [anchoring biases](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)), a new reviewer will only have access to them after submitting their own review. Moreover, authors have the opportunity to respond to any problems that they perceive with the previous-round reviews.
 
 **Q: Does ARR import reviews from other publication venues?** <br />
 A: No, ARR is a self-contained review system and all reviews are done within ARR. We do not import reviews that were done by other venues.
 
 **Q: I have further questions about ARR submission. Who should I contact?** <br />
-A: Please contact: <support@aclrollingreview.org>
+A: Please contact: `support at aclrollingreview.org`
 
-## Anonymity
+## Anonymity {#anon}
 
 **Q: What are the requirements of the anonymity policy for authors?** <br />
 A: ARR follows [the ACL Policies for Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation). For each review cycle and commitment process there is an anonymity period (see question below for timing). During the anonymity periods, ARR submissions may not be released online in a non-anonymized form (e.g. via arXiv or on a personal website). Non-anonymous preprints that were published before the start of the anonymity period may not be updated until the meta-reviews are released for the cycle. The only exception is for the purpose of correcting names, in which case the EICs should be notified per ACL policy. The existence of non-anonymous preprints must be disclosed in the submission form.
@@ -169,10 +170,10 @@ A: If a non-anonymous version of the paper was made publicly available before th
 ## Contributing to the Paper and Review Dataset
 
 **Q: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?** <br />
-A: The ACL Exec has approved the creation of [an opt-in corpus of submissions and reviews](https://aclweb.org/adminwiki/index.php?title=Review_Data_Collection_at_*ACL). This corpus is being assembled by a group separate from the ARR editorial team. The review meta-data associated with your submission, i.e. scores, anonymous reviewer identifiers etc., will only be included if both you and the reviewers agree. Submission and review texts are not included in this consent and are handled separately. Note: Currently, this data is not processed or collected.
+A: The ACL Exec has approved the creation of [an opt-in corpus of submissions and reviews](https://aclweb.org/adminwiki/index.php?title=Review_Data_Collection_at_*ACL). This corpus is being assembled by a group separate from the ARR editorial team. The review meta-data associated with your submission, i.e. scores, anonymous reviewer identifiers etc., will only be included if both you and the reviewers agree. Submission and review texts are not included in this consent and are handled separately (currently, this data is not processed or collected).
 
 **Q: How can I donate my paper draft with associated review reports?** <br />
 A: At ARR you can donate your peer review reports to an open public dataset of peer reviews and paper drafts (see [our blogpost on the data collection](/datacollection) for all details). As an author, you will be contacted by email including detailed instructions after your paper is accepted at a \*ACL conference. In the forum of your accepted paper, you can find a new button "License Agreement"; after clicking this button, you decide which data to contribute and sign the license agreement digitally. Only one of the authors has to do this on behalf of all co-authors.
 
 **Q: Is this the same as the EMNLP 2023 review release?** <br />
-A: No, the EMNLP 2023 data release includes accepted papers and opt-in rejected papers. The ARR data collection is entirely voluntary for all papers and requires consent from both authors and reviewers. Note, ARR papers committed to EMNLP 2023 will not be released as part of the EMNLP data release.
+A: No, the EMNLP 2023 data release includes all accepted papers and opt-in rejected papers. The ARR data collection is entirely voluntary for all papers and requires consent from both authors and reviewers. Note, ARR papers committed to EMNLP 2023 will not be released as part of the EMNLP data release.
