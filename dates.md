@@ -39,8 +39,8 @@ Current publication venues participating in ARR are listed below. If you represe
 | [LAW 2024](https://sigann.github.io/LAW-XVIII-2024/) | October 15th, 2023 | January 17th, 2024 |
 | [WNUT 2024](http://noisy-text.github.io/2024/) | October 15th, 2023 | January 17th, 2024 |
 | [MOOMIN 2024](https://moomin-workshop.github.io/) | October 15th, 2023 | January 17th, 2024 |
-| [CALD-pseudo 2024](https://mormor-karl.github.io/events/CALD-pseudo/) | October 15th, 2023 | January 17th, 2024 |
 | [UncertaiNLP 2024](https://uncertainlp.github.io/) | October 15th, 2023 | January 17th, 2024 |
+| [SCI-CHAT 2024](https://sites.google.com/view/dialogue-evaluation/) | October 15th, 2023 | January 17th, 2024 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
 | [MWE-UD 2024](https://multiword.org/mweud2024/) | December 15th, 2023 | March 25th, 2024 |
 | [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | TBC |
