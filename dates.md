@@ -9,7 +9,7 @@ permalink: /dates
 The schedule for 2023 is:
 
 | Cycle | Submission Date | Author Response | Cycle End |
-|---------------------|------------|------------|
+|---------------------|------------|------------|-------|
 | February 2023 | Feb 15th | March 27th - 30th | April 15th |
 | April 2023 | April 15th | May 27th - 30th | June 15th |
 | June 2023 | June 15th | July 28th - 31st | August 15th |
