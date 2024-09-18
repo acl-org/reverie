@@ -3,7 +3,7 @@ layout: post
 title: ARR Job Ads -- Editorial Assistant
 ---
 
-The Association for Computational Linguistics Rolling Review (ARR) is seeking an editorial assistant to support the regular operations of ARR bi-montlhy reviewing cycles. This position sits at the heart of the peer-review team that handles our major ACL conferences. The goal of this role is to support the editors-in-chief by managing some of the standard tasks involved in the peer-review process, such as supporting the communication between EiCs, the Senior Area Chairs, and the rest of the research community.
+The Association for Computational Linguistics Rolling Review (ARR) is seeking an editorial assistant to support the regular operations of ARR bi-monthly reviewing cycles. This position sits at the heart of the peer-review team that handles our major ACL conferences. The goal of this role is to support the editors-in-chief by managing some of the standard tasks involved in the peer-review process, such as supporting the communication between EiCs, the Senior Area Chairs, and the rest of the research community.
 
 POSITION SUMMARY
 
