@@ -236,58 +236,58 @@ Questions from venues about subscribing to ARR should be directed to the Editors
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // 获取页面中的所有 <h1> 元素
+    // Get all <h1> elements within the <article> tag
     var headers = document.querySelectorAll("article h1");
 
     headers.forEach(function(header, index) {
         var content = [];
         var sibling = header.nextElementSibling;
 
-        // 获取 H1 下面的所有内容，直到遇到下一个 H1
+        // Collect all content under each <h1> until the next <h1> is found
         while (sibling && sibling.tagName !== "H1") {
             content.push(sibling);
             sibling = sibling.nextElementSibling;
         }
 
-        // 创建一个 <div class="panel"> 来包裹这些内容
+        // Create a <div class="panel"> to wrap the content
         var panel = document.createElement("div");
         panel.className = "panel";
 
-        // 将所有的内容添加到这个 panel 里
+        // Append the collected content to the new panel
         content.forEach(function(item) {
             panel.appendChild(item);
         });
 
-        // 将 panel 插入到 DOM 中，紧接在 H1 之后
+        // Insert the panel right after the <h1> element
         header.parentNode.insertBefore(panel, header.nextElementSibling);
 
-        // 确保第一个和第二个 <h1> 的内容自动展开
+        // Ensure the content under the first and second <h1> is always displayed
         if (index === 0 || index === 1) {
             panel.style.display = "block";
             console.log("Displaying content for:", header.textContent);
         }
 
-        // 为第三个及以后的 <h1> 元素添加点击事件
+        // Add a click event for the third and subsequent <h1> elements to toggle content
         if (index > 1) {
             var viewMessage = document.createElement("span");
             viewMessage.className = "view-content-msg";
             viewMessage.innerText = "Click to view full content";
             header.parentNode.insertBefore(viewMessage, panel);
 
-            // 点击事件切换显示内容
+            // Function to toggle the visibility of the content
             function toggleContent() {
                 header.classList.toggle("active");
                 panel.style.display = panel.style.display === "block" ? "none" : "block";
                 viewMessage.style.display = panel.style.display === "block" ? "none" : "block";
             }
 
-            // 绑定点击事件
+            // Bind the click event to both the header and the message
             header.addEventListener("click", toggleContent);
             viewMessage.addEventListener("click", toggleContent);
         }
     });
 
-    // 确保所有内容在第一个 H1 前显示
+    // Ensure all content before the first <h1> is visible
     var firstH1 = document.querySelector("h1");
     if (firstH1) {
         var sibling = firstH1.previousElementSibling;
@@ -297,5 +297,4 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 });
-
 </script>
