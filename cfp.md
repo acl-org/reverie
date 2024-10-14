@@ -163,15 +163,18 @@ Submitting to ARR comes with two reviewing requirements.
 
 First, all authors are expected to review if asked to. There are of course legitimate reasons for one to suddenly be unavailable to review, and we will understand these. For example, already serving in ARR in another capacity.
 
-Second, at least one author must participate in the review process, unless an exception applies (e.g., every authors is either new to the community, has insufficient experience, or is already serving in another capacity). Papers that do not meet this requirement, and are not covered by an exception, may be desk rejected. See [this blog post](https://aclrollingreview.org/reviewing-workload-requirement/) for further information about this new (as of April 2024) requirement.
+Second, at least one author must participate in the review process, unless an exception applies (e.g., every author is either new to the community, has insufficient experience, or is already serving in another capacity). Papers that do not meet this requirement, and are not covered by an exception, may be desk rejected. 
 
 Authors who will review are provided at submission time. They must:
 
-1. Have an updated OpenReview profile, including affiliation, semantic scholar link, dblp link, and an email address where they can receive OpenReview messages.
-2. Have published at least three papers in \*CL conferences in the last 5 years.
-3. Once added as a reviewer, the person must promptly complete their reviewer registration form for the cycle.
+1. Be available to review up to four assigned papers.
+2. Have an updated OpenReview profile, including affiliation, semantic scholar link, dblp link, and an email address where they can receive OpenReview messages.
+3. Have published at least three papers in \*CL conferences in the last 5 years.
+4. Once added as a reviewer, the person must promptly complete their reviewer registration form for the cycle.
 
-Note that ARR has implemented a load balance check across cycles, so that reviewers are not overwhelmed with reviewing assignments.
+Note that the number of papers assigned to each reviewer depends in part on the paper matching process.  ARR has implemented a load balance check across cycles, so that reviewers are not overwhelmed with reviewing assignments.  Even with four assigned papers, providing four reviews doesn’t really cover the workload of having a paper complete a full review cycle, which involves not just three reviews and a meta-review from the AC, but also effort from the SACs and PCs during paper commitment.
+
+See [this blog post](https://aclrollingreview.org/reviewing-workload-requirement/) for further information about this requirement (as of April 2024).
 
 ### Submission Criteria
 
