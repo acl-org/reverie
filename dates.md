@@ -34,7 +34,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | Venue | Final ARR Submission Date | Commitment Date |
 | :---: | :-----------------------: | :-------------: |
 | [NAACL 2025](https://2025.naacl.org/) | October 15th, 2024 | December 16th, 2024 |
-| [ACL 2025](https://2025.aclweb.org/) | February 15th, 2025 | TBA |
+| [ACL 2025](https://2025.aclweb.org/) | February 15th, 2025 | April 10th, 2025 |
 
 ## Past Venues that Accepted ARR Submissions
 
