@@ -33,17 +33,8 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 | :---: | :-----------------------: | :-------------: |
-| [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | April 20th, 2024 |
-| [ArabicNLP 2024](https://arabicnlp2024.sigarab.org/) | February 15th, 2024 | May 17th, 2024 |
-| [CMCL 2024](https://cmclorg.github.io/) | February 15th, 2024 | May 17th, 2024 |
-| [SDProc 2024](https://sdproc.org/2024/index.html) | February 15th, 2024 | May 17th, 2024 |
-| [ML4AL 2024](https://www.ml4al.com/) | February 15th, 2024 | May 17th, 2024 |
-| [IWSLT 2024](https://iwslt.org) | February 15th, 2024 | May 28th, 2024 |
-| [INLG 2024](https://inlg2024.github.io/) | April 15th, 2024 | June 15th, 2024 |
-| [EMNLP 2024](https://2024.emnlp.org/) | June 15th, 2024 | August 20th, 2024 |
-| [CoNLL 2024](https://conll.org/2024) | June 15th, 2024 | August 30th, 2024 |
-| [NLP4DH 2024](https://www.nlp4dh.com/nlp4dh-2024) | June 15th, 2024 | September 22nd, 2024 |
-| [FEVER 2024](https://fever.ai/workshop.html) | August 15th, 2024 | September 23rd, 2024 |
+| [NAACL 2025](https://2025.naacl.org/) | October 15th, 2024 | December 16th, 2024 |
+| [ACL 2025](https://2025.aclweb.org/) | February 15th, 2025 | TBA |
 
 ## Past Venues that Accepted ARR Submissions
 
@@ -108,3 +99,14 @@ Current publication venues participating in ARR are listed below. If you represe
 - [SCI-CHAT 2024](https://sites.google.com/view/dialogue-evaluation/)
 - [NAACL 2024](https://2024.naacl.org/)
 - [MWE-UD 2024](https://multiword.org/mweud2024/)
+- [ACL 2024](https://2024.aclweb.org/)
+- [ArabicNLP 2024](https://arabicnlp2024.sigarab.org/)
+- [CMCL 2024](https://cmclorg.github.io/)
+- [SDProc 2024](https://sdproc.org/2024/index.html)
+- [ML4AL 2024](https://www.ml4al.com/)
+- [IWSLT 2024](https://iwslt.org)
+- [INLG 2024](https://inlg2024.github.io/)
+- [EMNLP 2024](https://2024.emnlp.org/)
+- [CoNLL 2024](https://conll.org/2024)
+- [NLP4DH 2024](https://www.nlp4dh.com/nlp4dh-2024)
+- [FEVER 2024](https://fever.ai/workshop.html)
