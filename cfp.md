@@ -169,7 +169,7 @@ Authors who will review are provided at submission time. They must:
 
 1. Be available to review up to four assigned papers.
 2. Have an updated OpenReview profile, including affiliation, semantic scholar link, dblp link, and an email address where they can receive OpenReview messages.
-3. Have published at least three papers in \*CL conferences in the last 5 years.
+3. Have published at least three papers in \*CL conferences in the last 5 years. (For this criterion, the term \*CL conferences includes AACL/IJCNLP, ACL, CL, COLING, CONLL, EACL, EMNLP, NAACL, LREC, and TACL. Both short and long papers count, as do Findings papers.)
 4. Once added as a reviewer, the person must promptly complete their reviewer registration form for the cycle.
 
 Note that the number of papers assigned to each reviewer depends in part on the paper matching process.  ARR has implemented a load balance check across cycles, so that reviewers are not overwhelmed with reviewing assignments.  Even with four assigned papers, providing four reviews doesn’t really cover the workload of having a paper complete a full review cycle, which involves not just three reviews and a meta-review from the AC, but also effort from the SACs and PCs during paper commitment.
