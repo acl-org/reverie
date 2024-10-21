@@ -4,4 +4,4 @@ title: "About"
 permalink: /about
 ---
 
-Homepage for ACL Rolling Review
+Homepage for [ACL Rolling Review](https://aclrollingreview.org)
