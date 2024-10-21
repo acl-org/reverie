@@ -53,7 +53,9 @@ E.g. for NAACL 2024 cycle it is:
 
 # ✅ **TASK 1. Allocate time in your calendar for reviewing and discussion**
 
-When you accept the reviewing request for an ARR cycle, there will be a kick-off email listing the important dates for this cycle (usually the subject is "") please block the time in your calendar for (1) checking the assignments, (2) working on the reviews, and (3) submitting them on time. The kick-off email will contain the timeline for your review cycle. Late reviews mean extra work for the AC and other volunteers — and the authors might not get a fair chance to respond.
+When you accept the reviewing request for an ARR cycle, there will be a kick-off email from OpenReview listing the important dates for this cycle. Usually the email subject is *[ACL RR-(MONTH)] Reviewing period starts ... (DATE)*. 
+
+Please block the time in your calendar for (1) checking the assignments, (2) working on the reviews, and (3) submitting them on time. The kick-off email will contain the timeline for your review cycle. Late reviews mean extra work for the AC and other volunteers — and the authors might not get a fair chance to respond.
 
 How much time will you need for reviewing? That varies by reviewer, paper, and experience. A way of estimating it would be to calculate what your average time for (a) skimming + in-depth reading of a paper is that is as close to your area as the submission, (b) writing and editing about half a page of an article. Ideally, this would be spread over a few days, because the first-impression draft may be tainted by a knee-jerk reaction to the paper's methodology or results. Then, during the discussion period, you need to set aside some time to check the authors' response, discuss and/or update the review as needed.
 
