@@ -1,14 +1,15 @@
 ---
 layout: page_toc
 title: "ARR Reviewer Guidelines"
-permalink: /reviewertutorial
+permalink: reviewerguidelines
+redirect_from: /reviewertutorial
 ---
 
 The ARR peer review guidelines are a work-in-progress and will be updated as ARR evolves. Before starting an assignment, the reviewers should always check whether the version they are familiar with is still the current one. The biggest recent updates are marked with 🆕.
 
 **Changelog:**
 
-- _25.09.2024_ A major update based on ACL'23 edits (Anna Rogers, Jordan Boyd-Graber), internal ARR documentation, and [NeurIPS paper checklist](https://neurips.cc/public/guides/PaperChecklist). Includes new guidlines related to ACL [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) and [anonymity](https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy) rules, guidance for requesting experiments involving closed-source LLMs, new section on common problems in NLP papers, and codes for common review issues that can be flagged by reviewers. Feedback from Michael White, Noah Smith, Mausam, Marzena Karpinska.
+- _21.10.2024_ A major update based on ACL'23 edits (Anna Rogers, Jordan Boyd-Graber), internal ARR documentation, and [NeurIPS paper checklist](https://neurips.cc/public/guides/PaperChecklist). Includes new guidlines related to ACL [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) and [anonymity](https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy) rules, guidance for requesting experiments involving closed-source LLMs, new section on common problems in NLP papers, and codes for common review issues that can be flagged by reviewers. Feedback from Michael White, Noah Smith, Mausam, Marzena Karpinska.
 - _15.05.2024_ Anonymity policy updates
 - _27.09.2023_ New reviewing page, AI question in the checklist. Comments and corrections by Aurélie Névéol, Amanda Stent, Sebastian Riedel, Preslav Nakov.
 - _10.08.2023_ Instructions on access to old reviews

@@ -75,6 +75,7 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+  parse_block_html: true
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -86,6 +87,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-redirect-from
 
 include: ['_pages']
 
