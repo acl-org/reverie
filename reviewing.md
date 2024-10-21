@@ -1,26 +1,12 @@
 ---
 layout: page
-title: "Reviewing"
+title: "ARR Reviewing Process"
 permalink: /reviewing
 ---
 
-# Peer review for ACL venues
-Peer review for ACL venues is made possible by the efforts of a huge number of [people](/people), almost all of them volunteers. This page breaks down the different roles within the scientific review process in ARR.
-
-- **Editors in Chief** coordinate each cycle of ARR review – both the scientific considerations and the supporting infrastructure. They are available to answer questions from members of the review team.
-- [**Senior Area Chairs**](/reviewing#SACs) check and refine the automatic assignment of papers to ACs and supervise the review effort. Unlike a conference, SACs do not make accept / reject recommendations.
-- [**Area Chairs**](/reviewing#ACs) (a.k.a. meta-reviewers) coordinate review of submissions, including (a) checking and refining the automatic assignment of reviewers, (b) coordinating reviewer discussions, and (c) writing meta-reviews. ACs and authors are anonymous to each other. ACs know the identity of their reviewers, but not vice versa (by default).
-- [**Reviewers**](/reviewing#reviewers) read papers and write thorough reviews. A review should briefly state what the paper is about, highlight its strengths/weaknesses, and offer constructive advice to authors (regarding potential improvements) while signaling whether it merits acceptance in its current form. Reviewers and authors are anonymous to each other.
-- [**The Ethics Chairs**](/reviewing#ethics) coordinate the process of reviewing potential ethical issues in submissions flagged by reviewers, ACs, or SACs as needing such review.
-- [**Ethics Reviewers**](/reviewing#ethics) carefully read and review papers that have ethical issues deemed significant enough by the Ethics Chairs.
-- [**Venue Program Committees**](/reviewing#PCs) (typically a conference or workshop team formed and headed by PC chairs) receive a pool of papers with completed reviews and meta-reviews and decide which ones to accept. They are outside the ARR process, receiving reviews from ARR.
-
-Click on one of the roles for a detailed explanation.
-
-
 # Timeline
 
-Below is an approximate timeline for the February ARR review cycle. The other cycles follow the same pattern. The submission deadline is always the 15th of the month; other dates vary due to the length of months, timing of weekends, etc. There are also some simplifications, e.g., the ethics process runs mostly in parallel to these steps, and there are additional tasks for first-time reviewers.
+Below is an approximate timeline for a February ARR review cycle. The other cycles follow the same pattern. The submission deadline is always the 15th of the month; other dates vary due to the length of months, timing of weekends, etc. There are also some simplifications, e.g., the ethics process runs mostly in parallel to these steps, and there are additional tasks for first-time reviewers.
 
 Month (example) | Date / Date range | What | Who
 ----------------------------- | ---- | ---- | ---
@@ -39,82 +25,32 @@ April | 7 | Meta-reviews due | ACs
 April | 1-11 | Complete ethics review process | Ethics reviewers
 April | 14 | Final reviews released to authors
 
+# Peer review process participants
+Peer review for ACL venues is made possible by the efforts of a huge number of [people](/people), almost all of them volunteers. This page breaks down the different roles within the scientific review process in ARR.
+
+- **Editors in Chief** coordinate each cycle of ARR review – both the scientific considerations and the supporting infrastructure. They are available to answer questions from members of the review team.
+- [**Senior Area Chairs**](/reviewing#SACs) check and refine the automatic assignment of papers to ACs and supervise the review effort. Unlike a conference, SACs do not make accept / reject recommendations.
+- [**Area Chairs**](/reviewing#ACs) (a.k.a. meta-reviewers) coordinate review of submissions, including (a) checking and refining the automatic assignment of reviewers, (b) coordinating reviewer discussions, and (c) writing meta-reviews. ACs and authors are anonymous to each other. ACs know the identity of their reviewers, but not vice versa (by default).
+- [**Reviewers**](/reviewing#reviewers) read papers and write thorough reviews. A review should briefly state what the paper is about, highlight its strengths/weaknesses, and offer constructive advice to authors (regarding potential improvements) while signaling whether it merits acceptance in its current form. Reviewers and authors are anonymous to each other.
+- [**The Ethics Chairs**](/reviewing#ethics) coordinate the process of reviewing potential ethical issues in submissions flagged by reviewers, ACs, or SACs as needing such review.
+- [**Ethics Reviewers**](/reviewing#ethics) carefully read and review papers that have ethical issues deemed significant enough by the Ethics Chairs.
+- [**Venue Program Committees**](/reviewing#PCs) (typically a conference or workshop team formed and headed by PC chairs) receive a pool of papers with completed reviews and meta-reviews and decide which ones to accept. They are outside the ARR process, receiving reviews from ARR.
+
+Click on one of the roles for a detailed explanation.
+
+
 # Reviewers {#reviewers}
 
-Each submission receives at least 3 reviews. A reviewer’s job is to offer an evaluation of the submission that highlights its contributions, strengths, and weaknesses. The review should be written for two audiences: the other members of the reviewing team, including a hypothetical venue that may consider the paper for acceptance in the future; and the authors, so that they can react in a constructive manner, e.g. by revising the paper or committing it to a venue.
+Each submission receives at least 3 reviews. The reviewer's main tasks are (1) checking the appropriateness of the submission and its assignment to this reviewer, (2) writing a strong review, (3) updating the review as appropriate based on author-reviewer discussion. 
 
-ARR maintains a pool of reviewers. If you have not reviewed for ARR before and would like to volunteer, contact the editors. All authors of submissions are also expected to be willing to review and those with enough papers in DBLP are added as reviewers.
-
-### Pre-cycle tasks
-The first time you are a reviewer, you must complete two forms.
-The registration form asks for the tracks you are capable of reviewing for, the languages you have expertise for, and checks that your profile is complete.
-The expertise selection form asks you to import papers you have authored, which will be used to inform our matching algorithm.
-
-Before every cycle, there is a request for availability with two questions: (1) what is your maximum load for new assignments, where 0 indicates you are not able to review new submissions, and (2) whether you are willing to review resubmissions, even if you answered ‘0’ to (1). It is helpful to agree to review any resubmissions so the authors can get the same reviewers again (assuming they did not request new reviewers).
-
-In a cycle right before a major conference commitment date, the average reviewer load is 3 papers (the range has been 1-9). In other cycles, where there are fewer submissions, the median reviewer load is 1 paper (range 1-6). Note, these values are calculated based only on the reviewers who were assigned papers. In the quieter cycles, most reviewers are not assigned any papers.
-
-Reviewers should also take care that their **OpenReview profile** and list of imported papers is up to date to facilitate COI detection and paper matching. Being up to date means having: links to DBLP and Semantic Scholar profiles, current affiliation, and current and past email addresses.
-
-### In-cycle tasks
-As a reviewer, your main duties for a submission are:
-- **Checking** the assignment when you receive it to ensure that (i) you are familiar with the topic and (ii) you can evaluate the paper without a conflict of interest or knowledge of author identities. Submit the paper checklist to confirm there are no major problems with the submission.
-- **Reading the paper thoroughly**, critically assessing its strengths and weaknesses, and **writing** the review. It is important to
-  - Defer searching for related work until after you have read the paper in case it deanonymizes the authors
-  - In your comments, maintain a professional tone and strive to be constructive and specific, even if you find aspects of the paper frustrating
-  - Include any questions you have that can be answered in the in-cycle author response
-  - If you have suggestions, indicate whether they would substantially improve your view of the paper if incorporated in a resubmission
-  - Evaluate the paper as if it was a submission to the main ACL conference
-  - **Resubmissions**: If the paper is a resubmission and you reviewed the previous version, your review can focus on the changes. If you did not review the previous version, write your review based on the revised version alone. Once this is submitted, you will gain access to the previous reviews so you can check for additional points you had not considered.
-- Checking the responsible research checklist and deciding whether ethics review would be appropriate for the submission, following these [guidelines](https://aclrollingreview.org/ethics-flagging-guidelines/)
-- Being responsive to email inquiries; keeping the AC informed if there is a delay in submitting the review
-- Reading the author response (if any) and engaging in discussion (new in October 2023).
-- Reading the other reviews, participating in reviewer discussions, and revising your review if you have anything to add
-
-For a step-by-step guide to reviewing, including advice on what aspects of the paper to think about and what criticisms are considered fair, see the [**reviewer tutorial**](reviewertutorial).
-
-In some cases, an assigned reviewer becomes unavailable and an **emergency review** is needed. If you are invited to provide an emergency review, consider whether you are prepared to do a good job in a short timeframe; if not, it is better to decline.
-
-Reviewers can communicate with ACs and senior members of the review team by posting messages (or "comments") in the OpenReview interface. For issues with OpenReview itself, contact <tech@aclrollingreview.org>.
+ARR maintains a pool of reviewers. If you have not reviewed for ARR before and would like to volunteer, contact the editors. All authors of submissions are also expected to be willing to review and those with enough papers in DBLP are added as reviewers. Before every cycle, there is a request for availability with two questions: (1) what is your maximum load for new assignments, where 0 indicates you are not able to review new submissions, and (2) whether you are willing to review resubmissions, even if you answered ‘0’ to (1). It is helpful to agree to review any resubmissions so the authors can get the same reviewers again (assuming they did not request new reviewers).
 
 Quick links:
+- [Reviewer Guidelines](reviewertutorial)
 - [Reviewers' Guide to OpenReview](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.p)
 - [Review Form](reviewform)
-- [Reviewer Tutorial](https://aclrollingreview.org/reviewertutorial)
 - [How to Set Your Max Load / Availability for a Cycle](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit)
 
-### Reviewer FAQ
-
-**Q**: How can I communicate with the area chair in charge of one of my papers? <br />
-**A**: You can contact them through OpenReview. See step-by-step instructions [here](https://docs.google.com/document/d/1Zdc57K54tJaDii2DccH0ZxtakOrNdsUF1SK7svqDBIU/edit#heading=h.kpesxugglxbq). You should see a button labeled "Official Comment" at the top of the paper forum. Click on it to open a message form. For messaging exclusively the area chairs, please select only "area chairs" in the "Readers" field of the form.
-
-**Q**: Can I designate a secondary or substitute reviewer for ARR? <br />
-**A**: An assigned reviewer may wish to recruit another individual—often a mentee—to help with the review. This is called a **secondary reviewer**. You can involve a secondary reviewer by coordinating the review offline and submitting it in OpenReview as your own. In this case, we encourage you to leave a confidential note to the area chair indicating who the secondary reviewer was (see the question above for how to do this). However, they will not be acknowledged in OpenReview as a reviewer.
-Alternatively, if you wish to hand over full reviewing duties to a colleague or mentee, you can ask your area chair to reassign the paper to a **substitute reviewer** in your stead. They will be acknowledged in OpenReview as a reviewer. You will no longer be listed as a reviewer of the paper and will be unable to access the paper and its reviews in the system.
-
-**Q**: I think I should have heard from ARR, but I haven’t seen any emails. What’s going on? <br />
-**A**: It’s possible that the emails have been marked as spam – check your spam folder! ARR does not use email tracking: we know if email bounces, but we don’t know if you have seen a message.
-
-**Q**: What should I do if I think the paper is in violation of the ARR guidelines? <br />
-**A**: Please inform the area chair in charge of your paper.
-
-**Q**: What is the paper checklist? <br />
-**A**: This is a form for each paper that helps identify issues early in the review process. Your response is not visible to the authors or other reviewers. It is visible to your AC, SAC, and the EICs.
-- Is the content of this paper appropriate to a \*ACL venue?
-- Is the paper in English?
-- Does this paper use the ARR template?
-- Does this paper adhere to length constraints for the paper type (long: 8, short: 4, in both cases exclusive of references and appendices)?
-- Is the submission (including paper and any supplemental materials) anonymized?
-- Is this paper already published elsewhere?
-
-**Q**: What is the review report license agreement about? <br />
-**A**: At ARR you can donate your peer review reports to an open public dataset of peer reviews and paper drafts (see our [blogpost on the data collection](https://aclrollingreview.org/datacollection) for details). You can contribute your data to the corpus via signing the review report license transfer agreement, which you can find in your [task log on OpenReview](https://openreview.net/tasks). You have to make this decision for each cycle and you donate all review reports of a cycle in bulk.
-
-**Q**: How are paper assignments determined? In particular, how are areas used? <br />
-**A**: We generate an assignment automatically based on areas, prior work, and languages involved. We also try to ensure at least one reviewer is a non-student, and that no two reviewers are from the same institution. This assignment is checked by the AC, who changes reviewers as needed. Regarding areas, reviewers choose multiple areas that they have expertise in while authors choose a single area at submission time. We strongly encourage the matching algorithm to assign reviewers that match the area.
-
-**Q**: I no longer wish to be a reviewer for ARR. How can I withdraw myself from the pool? <br />
-**A**: Please contact the EICs to have yourself removed.
 
 # Area Chairs {#ACs}
 

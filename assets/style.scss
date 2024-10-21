@@ -1297,3 +1297,10 @@ Modules - reusable parts of our design
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+
+.reviewIssue {
+  background: lightgrey;
+  border-radius: 0.25em;
+  font-weight: bolder;
+  padding: 0.1cm;
+}
