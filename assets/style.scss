@@ -1304,3 +1304,16 @@ Modules - reusable parts of our design
   font-weight: bolder;
   padding: 0.1cm;
 }
+
+.checklist {
+  border-style: solid !important;
+  border-width: 1px;
+  border-color: #303e49;
+  border-radius: 0.25em;
+  background-color: white;
+  padding: 0.25em;
+  font-size: smaller;
+  background: lightgrey;
+  ul { list-style-type: "☑ "; }
+}
+
