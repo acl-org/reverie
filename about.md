@@ -4,12 +4,9 @@ title: "About"
 permalink: /about
 ---
 
-ACL Rolling Review is an initiative of the [ACL](https://aclweb.org).
-
-Please see the [ACL Rolling Review Proposal](https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal) for more information.
+A peer review platform for the [Association for Computational Linguistics](https://aclweb.org), originally created on the basis of this [proposal](https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal).
 
 Follow us on [Twitter](https://twitter.com/ReviewAcl) and [Facebook](https://www.facebook.com/aclrollingreview).
-
 
 
 <sub><b>Acknowledgments</b></sub>
