@@ -27,7 +27,7 @@ The ARR peer review guidelines are a work-in-progress and will be updated as ARR
 
 **What about the author anonymity?** While [ACL has replaced the embargo period with other measures to incentivize anonymity](https://aclrollingreview.org/anonymity/), the reviewing guidelines are as follows:
 
-*To preserve the merits of double-blind review, reviewers for *ACL conferences and TACL should be instructed **not to actively try to discover the identity of the authors** and not to let any suspicion or knowledge of author identity affect their judgment of the paper. This should not prevent them from searching for related work, but they should take special care and **postpone such searches until after they have read the paper completely and formed an initial impression of it**. If a reviewer nevertheless uncovers the identity of the authors (or believes they can identify the authors for other reasons), they should inform the area chair or action editor (but not other reviewers) so that this information can be taken into account when making the final acceptance decision. *
+> _To preserve the merits of double-blind review, reviewers for *ACL conferences and TACL should be instructed **not to actively try to discover the identity of the authors** and not to let any suspicion or knowledge of author identity affect their judgment of the paper. This should not prevent them from searching for related work, but they should take special care and **postpone such searches until after they have read the paper completely and formed an initial impression of it**. If a reviewer nevertheless uncovers the identity of the authors (or believes they can identify the authors for other reasons), they should inform the area chair or action editor (but not other reviewers) so that this information can be taken into account when making the final acceptance decision._
 
 Hence, we ask for the following workflow: (1) read the paper and get the first impression, (2) search for related work, not deliberately trying to find that particular submission. If you become aware or can guess the authors' identity, you should disclose that in the ARR review form, which contains questions about the reviewers' knowledge of author identity. In [some cases](#expertise-and-coi-check-can-you-review-these-papers) it is appropriate to ask for a reassignment.
 
@@ -87,7 +87,7 @@ If you feel that this submission is a very bad match on one of these criteria, p
 Most of the desk rejects happen before the reviewing starts, because the program and area chairs do a cursory check for obvious issues prior to reviewer assignment. Still, only reviewers read the papers in-depth, and so they are also provided with a checklist to flag the problems that other people may have missed. For all your assignments you need to complete the [reviewer checklist](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.g29396624085_0_10), which asks you to consider the following issues that may qualify a paper for desk rejection:
 
 
-* **Appropriateness: **Is this submission appropriate for ARR? If in doubt, consider the scope described in [ARR CFP](https://aclrollingreview.org/cfp) and any relevant conferences (e.g. for October 2024 cycle the NAACL CFP specifies the special theme  ["NLP in a Multicultural World"](https://2025.naacl.org/calls/papers/).
+* **Appropriateness:** Is this submission appropriate for ARR? If in doubt, consider the scope described in [ARR CFP](https://aclrollingreview.org/cfp) and any relevant conferences (e.g. for October 2024 cycle the NAACL CFP specifies the special theme  ["NLP in a Multicultural World"](https://2025.naacl.org/calls/papers/).
 * **Anonymity violations.** As of January 2024, non-anonymous pre-prints are permitted for ARR, but [submissions should still be properly anonymized](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation) (e.g., not containing explicit references to the authors' prior work, acknowledgements, links to non-anonymous repositories or services like Dropbox that may track who opened the link). 
 * **Style guides or length violations:** the paper should be desk-rejected if it does not follow the [style guides](https://acl-org.github.io/ACLPUB/formatting.html) or goes over the page limit (4 pages for short, 8 for long papers, excluding the ethical considerations and limitations).
 * **Missing Limitations section**
@@ -110,9 +110,9 @@ One reading strategy that seems to be often used, but not well suited for peer r
 
 **1. Skim-reading: adjusting your expectations.**
 
-* *What is the research question and what was done to answer it?* *Will the answer advance the field? *Do NOT look at the results yet. Hindsight bias may make things seem obvious in retrospect, and [confirmation bias](https://www.acpjournals.org/doi/abs/10.7326/0003-4819-116-11-958_2) may make you dismiss evidence that contradicts your beliefs. Remember that the goal of research is to contribute new *knowledge*.
-* *If the methodology and the type of contribution in scope of the CFP? *NLP is an interdisciplinary field, and we might learn from papers that don't do the same thing we do. E.g. there was a case when a *CL reviewer criticized a resource paper as follows: ['the paper is mostly a description of the corpus and its collection and contains little scientific contribution'](https://rbawden.wordpress.com/2019/07/19/one-paper-nine-reviews/). This is particularly unfortunate when the modeling work has far outpaced the development of theory and documentation. Furthermore, given the sad state of replicability of NLP experiments, even in published papers, reimplementations and systematic analyses of prior work should be encouraged.
-* *Is the claim appropriately scoped? *This applies to all papers, but especially to the short ones. They may present a proof of concept, an interesting finding, a convincing point, a negative result, and they are very easy to criticize with "it would be nice/more complete to add X". Such a criticism can be made for most papers. It is only valid if the argument that is being made depends on X.
+* *What is the research question and what was done to answer it? Will the answer advance the field?* Do NOT look at the results yet. Hindsight bias may make things seem obvious in retrospect, and [confirmation bias](https://www.acpjournals.org/doi/abs/10.7326/0003-4819-116-11-958_2) may make you dismiss evidence that contradicts your beliefs. Remember that the goal of research is to contribute new *knowledge*.
+* *If the methodology and the type of contribution in scope of the CFP?* NLP is an interdisciplinary field, and we might learn from papers that don't do the same thing we do. E.g. there was a case when a *CL reviewer criticized a resource paper as follows: ['the paper is mostly a description of the corpus and its collection and contains little scientific contribution'](https://rbawden.wordpress.com/2019/07/19/one-paper-nine-reviews/). This is particularly unfortunate when the modeling work has far outpaced the development of theory and documentation. Furthermore, given the sad state of replicability of NLP experiments, even in published papers, reimplementations and systematic analyses of prior work should be encouraged.
+* *Is the claim appropriately scoped?* This applies to all papers, but especially to the short ones. They may present a proof of concept, an interesting finding, a convincing point, a negative result, and they are very easy to criticize with "it would be nice/more complete to add X". Such a criticism can be made for most papers. It is only valid if the argument that is being made depends on X.
 
 **In-depth reading.** This is where you evaluate the evidence that is presented for its technical soundness, proof validity, sound argumentation, novelty, etc. How to do this best depends on the type of paper and your workflow.
 
@@ -314,7 +314,7 @@ As a counter to common problems with reviews, there are also common problems wit
 <tr>
    <td>M1. LLM-only evaluation without validation
    </td>
-   <td>If LLMs are used as automated evaluators, is their reliability *in this context* sufficiently validated? 
+   <td>If LLMs are used as automated evaluators, is their reliability <em>in this context</em> sufficiently validated? 
    </td>
    </tr>
   <tr>
@@ -478,7 +478,7 @@ Just like the conference coffee break chats, reviewing is in fact, mutually bene
 Not to mention, someone out there is reviewing your papers too. The more rude or dismissive reviews there are, the more of a norm they become, and the higher the chances you will get one yourself in the future.
 
 
-# ✅ **TASK 4. Update your review after the authors’ response and discussion** <span class='reviewIssue'>I11</span>
+# ✅ **TASK 4. Update your assessment after the authors’ response and discussion** <span class='reviewIssue'>I11</span>
 
 
 ## Discussion with the authors
@@ -486,10 +486,9 @@ Not to mention, someone out there is reviewing your papers too. The more rude or
 A core feature of OpenReview that was welcomed by many in *CL community is the author discussion period with the reviewers. While the reviewers are volunteers and cannot be obligated to participate, we strongly hope that you would **at least acknowledge the authors’ response**. You are probably well aware that, as an author, it is rather depressing to spend a lot of time carefully preparing responses to the reviews, only to see in the notification that the reviews did not change at all.
 
 
-
-* If you do read the response and do not find it convincing, please at least acknowledge it. Then the authors will at least know that their response was not convincing (rather than just not read), and that is still useful information for improving their work.  \
-E.g., *Update: the authors responded, but none of the issues was addressed sufficiently to change this assessment. &lt;ideally, say briefly what you found unconvincing>*
-* If you find that at least some of your concerns were sufficiently addressed, please update the scores/text of your review. To make it clear what the changes are, please do not just edit the old review but add in the end a short statement.  \
+* If you do read the response and do not find it convincing, please at least acknowledge it. Then the authors will at least know that their response was not convincing (rather than just not read), and that is still useful information for improving their work. <br/> 
+E.g., *Update: the authors responded, but none of the issues was addressed sufficiently to change this assessment. [ideally, say briefly what you found unconvincing]*
+* If you find that at least some of your concerns were sufficiently addressed, please update the scores/text of your review. To make it clear what the changes are, please do not just edit the old review but add in the end a short statement.  <br/>
 E.g., *Update: the issues with X and Y were resolved in the discussion, and I updated my scores*.
 * If you would like to discuss something with the authors, you are encouraged to discuss for as long as there's time, but please keep in mind that the AC is unlikely to read very long discussions (we ask them to read at least top 2 author responses per reviewer thread). We recommend asking for clarifications on the most important points first so that this information is more likely to be noticed by the AC.
 
@@ -600,8 +599,8 @@ There is a special 'Secondary reviewer' field in the review form that can be use
 You may have heard of the NeurIPS experiments ([2014](https://arxiv.org/abs/2109.09774), [2021](https://blog.neurips.cc/2021/12/08/the-neurips-2021-consistency-experiment/)), in which the same papers were assigned to two sets of reviewers. Their results suggested that peer review is fairly reliable in rejecting the low-quality submissions, but for the rest, the final decisions of the two committees are at random chance level. This is obviously a frustrating situation for the authors, going through rounds of seemingly arbitrary rejections. Besides the noise in this process, there are many factors that could contribute to this situation, including the following:
 
 * *Variance in reviewer experience and training.* Some inexperienced reviewers do not receive appropriate training.
-* *Variance in understanding the evaluation rubrics. *Reviewers may differ in what counts as a "weakness" - a fundamental flaw or a lack of clarification experiment? Similarly,  how exactly should  the "overall recommendation" balance a reviewer's own interest in the topic with  the thoroughness of the research?
-* *Implicit biases *that we all have due to our social and academic backgrounds. The same approach may receive different evaluation if it is tested on a popular or a niche task, on English or any other language, with focus on engineering or linguistic aspects, and if it had been preprinted by a well-known lab and has received much attention. In case of submissions that get deanonymized due to preprints and social media, we may also be biased in favor of well-known authors and/or widely-discussed papers.
+* *Variance in understanding the evaluation rubrics.* Reviewers may differ in what counts as a "weakness" - a fundamental flaw or a lack of clarification experiment? Similarly,  how exactly should  the "overall recommendation" balance a reviewer's own interest in the topic with  the thoroughness of the research?
+* *Implicit biases* that we all have due to our social and academic backgrounds. The same approach may receive different evaluation if it is tested on a popular or a niche task, on English or any other language, with focus on engineering or linguistic aspects, and if it had been preprinted by a well-known lab and has received much attention. In case of submissions that get deanonymized due to preprints and social media, we may also be biased in favor of well-known authors and/or widely-discussed papers.
 
 These guidelines are a part of an effort to improve the overall quality of reviews at *CL conferences, aiming to address the above issues. We discuss the overall structure and philosophy of the process for first-time reviewers, clarify the ARR principles and the review form, and address some of the cognitive and social biases that undermine peer review. 
 
