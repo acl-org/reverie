@@ -1260,38 +1260,6 @@ Modules - reusable parts of our design
   }
 }
 
-.person {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 15px;
-}
-
-.person img {
-  border-radius: 50%;
-  width: 110px;
-  height: 110px;
-  margin-right: 15px;
-}
-
-.person div {
-  display: flex;
-  flex-direction: column;
-  line-height: 1;
-  padding-top: 20px;
-}
-
-.person a {
-  font-weight: bold;
-  color: #0073e6; /* Adjust color as needed */
-  text-decoration: none;
-  margin: 0;
-}
-
-.person a:hover {
-  text-decoration: underline;
-}
-
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 //@import "highlights";
