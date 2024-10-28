@@ -108,6 +108,30 @@ If you want general support regarding ARR, please contact `support at aclrolling
   </div>
 </div>
 
+<div class="person" markdown="0">
+  <img src="images/people/margot_mieskes.jpeg" alt="Margot Mieskes">
+  <div>
+    <a href="https://scholar.google.de/citations?user=NSHuWowAAAAJ&hl=de">Margot Mieskes</a><br>
+    University of Applied Sciences, Darmstadt
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/xiaodan_zhu.jpg" alt="Xiaodan Zhu">
+  <div>
+    <a href="https://www.xiaodanzhu.com/">Xiaodan Zhu</a><br>
+    Queen's University
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/sarvnaz_karimi.jpeg" alt="Sarvnaz Karimi">
+  <div>
+    <a href="https://www.linkedin.com/in/sarvnaz-karimi-64ab491/?originalSubdomain=au">Sarvnaz Karimi</a><br>
+    CSIRO
+  </div>
+</div>
+
 Contact: `editors at aclrollingreview.org`
 
 ## Ethics Chair
@@ -258,7 +282,7 @@ Contact: `tech at aclrollingreview.org`
 </div>
 
 <div class="person" markdown="0">
-  <img src="images/people/placeholder.jpg" alt="Santosh T.Y.S.S.">
+  <img src="images/people/santosh.jpg" alt="Santosh T.Y.S.S.">
   <div>
     <a href="/organization">Santosh T.Y.S.S.</a><br>
     Technische Universität München
