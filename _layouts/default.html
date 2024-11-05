@@ -12,6 +12,7 @@
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/ARR.png">
     {% include analytics_head.html %}
+
   </head>
 
   <body>
@@ -97,5 +98,16 @@
     });
   });
 </script>
+
+<script>
+  // source for this hack: https://thatgurjot.com/til/clickable-checkboxes-on-jekyll-hugo/
+  // clickable checkboxes
+const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+checkboxes.forEach(checkbox => {
+// remove the disabled attribute; added by kramdown by default
+checkbox.removeAttribute('disabled');
+});
+  </script>
+
   </body>
 </html>
