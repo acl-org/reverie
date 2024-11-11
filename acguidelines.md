@@ -169,6 +169,7 @@ If you need to replace a reviewer because they might be unreliable, please do *n
 # ✅ **TASK 3. Checking review quality and chasing missing reviewers**
 
 To the extent possible, we ask you to do at least a surface check that **the reviews in your batch are of reasonable quality**. Common problems that are relatively easy to spot without in-depth reading are: 
+
 - one-liner reviews 
 - rude reviews 
 - reviews where the low scores are not accompanied by substantial criticism 
@@ -176,13 +177,17 @@ To the extent possible, we ask you to do at least a surface check that **the rev
 - some of the [common heuristics discussed in the reviewer guidelines](https://aclrollingreview.org/reviewerguidelines#3-check-for-common-review-issues-i2-i10), such as 'this is a resource paper', 'results are not sota'. Note that it contains new instructions about requests for comparisons to the latest 'closed' models. 
 If you notice any such obvious problems, there's still time to contact the reviewer and ask them to fix them. The reviewers have been provided with extensive [reviewer guidelines](https://aclrollingreview.org/reviewerguidelines). 
 
-**Between-reviewer discussion** is less common on OpenReview, but if you happen to notice a case where that might be warranted (e.g. that reviewers contradict each other), you can point that out and invite them to discuss it before the start of author response. OR has a new [chat feature](#openreview--how-to-use-the-chat-feature) that may help with this.
+ **What to do with problematic reviews:** unfortunately we have received quite a few reports of reviews with AI-generated content. This is a serious violation of reviewer guidelines: like authors, they can use it for assistance with language, but they bear responsibility for the content. Please check if you have anything like that in your batch, and if so - please reassign these papers to emergency reviewers. For other kinds of serious guidelines violations - e.g. dismissive or one-liner reviews - please consider the reviewer profile. Junior reviewers may be able and willing to do a better job if you ask them directly to fix a specific issue. If non-responsive, proceed with emergency reassignments.
 
-**Review chasing.** You will likely have some reviews missing by the deadline. You can easily check which papers have missing reviewers by going to your 'Assigned submissions' list, and entering `+numOfficialReviewDone<3` in the search field.
+In the rare cases of serious malpractice you may see reviews that are so bad that they should be removed from consideration. Please note such cases down, you will be able to specify this in the meta-review. If by the start of reviewer discussion you have any reviews that are so problematic that they should be removed, please add an official comment on them, addressed to chairs and authors, with the following text: *"This review does not meet the ARR quality standards, and will be disregarded in the assessment"*.
+
+Between-reviewer discussion is less common on OpenReview, but if you happen to notice a case where that might be warranted (e.g. that reviewers contradict each other), you can point that out and invite them to discuss it before the start of author response. OR has a new [chat feature](#openreview--how-to-use-the-chat-feature) that may help with this.
+
+**Review chasing.** You will likely have some reviews missing by the reviews-due deadline. You can easily check which papers have missing reviewers by going to your 'Assigned submissions' list, and entering `+numOfficialReviewDone<3` in the search field. Some of them may find that they are unable to complete some or all of their reviews due to personal emergencies; in these cases we ask them to notify you as soon as possible by adding an official comment on the paper.
 
 You can do the following:
 
-- **Option A.** Contact the reviewers who are late, and ask when they will submit their reviews. Many are late but do submit their reviews with some chasing. From past experience, it is more effective to reach out personally by email rather than through OR. If they confirm that they will submit their reviews before the start of author response period (Nov 22), then there is no need to assign emergency reviewers. 
+- **Option A.** Contact the reviewers who are late, and ask when they will submit their reviews. Many are late but do submit their reviews with some chasing. From past experience, it is more effective to reach out personally by email rather than through OR. If they confirm that they will submit their reviews before the start of author response period, then there is no need to assign emergency reviewers. 
 - **Option B.** If the original reviewers are unresponsive, or they say that they cannot complete the reviews before the start of author response period, bring in emergency reviewers. **Each unresponsive reviewer should have exactly one replacement**. Many ARR cycles run at max reviewer capacity, so we cannot afford to spend more effort on one paper.
 
 There are two ways to find and invite emergency reviewers:
@@ -206,9 +211,9 @@ If you are not yet familiar with OR interface, instructions for submitting the m
 
 ## Meta-review form
 
-Generally, a meta-review is a summary of the reviews, discussions, and author response, providing a recommendation to the chairs. It should state the most prominent strengths and weaknesses of the submission, and it should explicitly judge whether the former outweighs the latter (or vice-versa). It should help the **authors** figure out what type of revision (if any) they should aim for, and it should help the **chairs** make accept/reject decisions.
+Generally, a meta-review is a summary of the reviews, discussions, and author response, providing a recommendation to the chairs. It should state the most prominent strengths and weaknesses of the submission, and it should explicitly judge whether the former outweighs the latter (or vice-versa). It should help the **authors** figure out what type of revision (if any) they should aim for, and it should help the **chairs** make accept/reject decisions. Like reviews, meta-reviews should be [specific](https://aclrollingreview.org/reviewerguidelines#2-be-specific-i1) (especially about the recommended revisions), and [professional in tone](https://aclrollingreview.org/reviewerguidelines#6-check-that-the-tone-is-professional-and-neutral-i4) (rather than rude/dismissive).
 
-The ARR **metareview score** is different from reviewer scores. It is meant to signal, both to the authors and to program chairs, the amount of work it would take for this paper to be publication-ready. 
+The ARR **metareview score** is different from reviewer scores. It is meant to signal, both to the authors and to program chairs, the amount of work it would take for this paper to be publication-ready. [Like with reviews](https://aclrollingreview.org/reviewerguidelines#5-check-that-your-scores-reflect-the-review-i3), the score should be backed up by the meta-review text.
 
 ![alt_text](images/guidelines/3-AC-overall-assessment.png "image_tooltip"){:width="70%"}
 
@@ -238,7 +243,7 @@ It is OK if differences between reviewers remain as long as you understand the r
 
 Also, keep in mind that resubmissions do not have a higher page limit for addressing reviewer feedback, so if major additions are suggested, consider asking reviewers what can be removed to make space (or whether the format should be switched between short and long).
 
-## 🆕 Sticks and carrots 
+## 🆕 Reviewer awards and penalties 
 
 **Outstanding paper award.** You, just like the reviewers, have the power to nominate the paper to be considered by the best paper committee. This does not mean that the paper is perfect (none of them are): you could consider the papers that seem outstanding in your batch. The current [ACL award policy](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Awards_Policy) allows for up to 2.5% of papers to receive 'outstanding' awards, which could mean a lot for junior authors' careers - but relatively few papers even get nominated. 
 
@@ -251,6 +256,8 @@ Also, keep in mind that resubmissions do not have a higher page limit for addres
 * *patient reviewers*, who were able to provide kind and helpful feedback even to low-quality submissions
 
 **Poor reviews.** If you find that some reviews provided exceptionally bad service, you can list them too. Your reasons for flagging reviewers may be serious guideline or procedural violations that were justifiably flagged by the authors, or something that only you saw and the authors did not (e.g. simply going MIA without notification). In the future OpenReview will be a persistent reviewer history feature, maybe even with some information shared across venues.
+
+There is also a new separate field to list the (hopefully rare) cases of reviews that are so bad that they should be disregarded and removed from OpenReview page (e.g. because they are AI-generated). Please also add an official comment on these reviews, addressed to chairs and authors, with the following text: *"This review does not meet the ARR quality standards, and will be disregarded in the assessment"*.
 
 ## Papers with late reviews
 
