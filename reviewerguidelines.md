@@ -470,9 +470,9 @@ Even then, do try to step away from your own research agenda. Of course, we cann
 
 ## 6. Check that the tone is professional and neutral <span class='reviewIssue'>I4</span>
 
-Above all, a good review should be professional and neutral, if not kind. A key goal of peer review is to help the authors improve their papers. As an anonymous reviewer, you are in a position of power, and the written medium makes it easier to be more dismissive and sarcastic than if you were communicating with the authors face-to-face.
+Above all, a good review should be professional and neutral, if not kind. A key goal of peer review is to help the authors improve their papers. As an anonymous reviewer, you are in a position of power, and the written medium makes it easier to be more dismissive and sarcastic than if you were communicating with the authors face-to-face. Unfortunately such reviews are [not uncommon](https://www.science.org/content/article/rude-paper-reviews-are-pervasive-and-sometimes-harmful-study-finds).
 
-You may well be addressing someone who is only starting on the research path. And/or someone struggling with stress and other mental health issues. And/or someone who has been less lucky with their school and advisors. Academic lives are already stressful enough, and we do not need to inflict extra damage on the mental health of our colleagues with sarcastic or insulting reviews. [Write the review you would like to get yourself.](https://www.nature.com/articles/d41586-020-03394-y)
+Consider that you may well be addressing someone who is only starting on the research path. And/or someone struggling with stress and other mental health issues. And/or someone who has been less lucky with their school and advisors. Academic lives are already stressful enough, and we do not need to inflict extra damage on the mental health of our colleagues with sarcastic or insulting reviews. [Write the review you would like to get yourself.](https://www.nature.com/articles/d41586-020-03394-y)
 
 The fact is, authors and reviewers *are* actually the same people: the conference crowd lining up for coffee, happily chatting with each other about the grand problems even if they do not always agree. Why can’t we do peer review in the same spirit of fun intellectual interaction with colleagues?
 

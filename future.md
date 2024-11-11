@@ -9,6 +9,7 @@ This page describes some ideas that have been proposed by the community, and tha
 
 # Planned Future Work
 
+* An author feedback mechanism not only for reviewers, but also ACs (for action by SACs)
 * Enabling the joint track work by all track SACs
 * Improving the workflow to pass reviewed papers to other conferences/workshops
 * Improving the integration with proceedings generation
