@@ -51,7 +51,7 @@ For general support regarding ARR, please contact `support at aclrollingreview.o
 </div>
 
 <div class="person" markdown="0">
-  <img src="images/people/placeholder.jpg" alt="Jun Suzuki">
+  <img src="images/people/jun_suzuki.jpg" alt="Jun Suzuki">
   <div>
     <a href="https://www.fai.cds.tohoku.ac.jp/members/js/">Jun Suzuki</a><br>
     Tohoku University
