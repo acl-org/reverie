@@ -223,6 +223,8 @@ So if, for example, many more experiments need to be done, then that probably me
 
 **Flagging papers for ethics.** Generally, this was supposed to happen at the AC checklist stage. If this does happen, it is generally too late to send this to the ethics reviewers in the same cycle. ARR is currently developing a process for such cases. For now, we ask you to still provide this information if you strongly believe that some big ethical problem has been missed.
 
+**Outstanding paper award.** You, just like the reviewers, have the power to nominate the paper to be considered by the best paper committee. This does not mean that the paper is perfect (none of them are): you could consider the papers that seem outstanding in your batch. The current [ACL award policy](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Awards_Policy) allows for up to 2.5% of papers to receive 'outstanding' awards, which could mean a lot for junior authors' careers - but relatively few papers even get nominated. 
+
 ## Sources of information for meta-review
 
 **Reviews.** This part is the most-cut, since the reviews are comparably structured and you are already familiar with the reviewers' positions at this point. However, please consider also the author response, where available, and reported review issues that were justifiably flagged by authors (see below).
@@ -243,9 +245,7 @@ It is OK if differences between reviewers remain as long as you understand the r
 
 Also, keep in mind that resubmissions do not have a higher page limit for addressing reviewer feedback, so if major additions are suggested, consider asking reviewers what can be removed to make space (or whether the format should be switched between short and long).
 
-## 🆕 Reviewer awards and penalties 
-
-**Outstanding paper award.** You, just like the reviewers, have the power to nominate the paper to be considered by the best paper committee. This does not mean that the paper is perfect (none of them are): you could consider the papers that seem outstanding in your batch. The current [ACL award policy](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Awards_Policy) allows for up to 2.5% of papers to receive 'outstanding' awards, which could mean a lot for junior authors' careers - but relatively few papers even get nominated. 
+## 🆕 Outstanding reviews and poor reviews 
 
 **Outstanding reviewers.** If some reviewers in your batch went beyond expectations, please list them. Here is a non-exhaustive list of the kinds of service that we would like to encourage:
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Author Checklist"
+title: "Common Submission problems to check for"
 permalink: /authorchecklist
 ---
 
@@ -53,7 +53,7 @@ Please refer to [this page](https://www.aclweb.org/adminwiki/index.php?title=ACL
 ## Responsible NLP Research
 
 
-Responsible NLP research means (among other things) taking into account issues related to ethics and to reproducibility. Our submission form includes the responsible NLP research checklist (detailed explanation of all its questions is available [here](/responsibleNLPresearch)). Note, prior to February 2024, this was submitted as a separate PDF. Besides reminding the authors about the best practices, it also serves as a kind of FAQ for ACs and reviewers, allowing them to check for common issues without spending the author response time on them. **At ACL'25 the checklist will be published as an appendix to accepted papers, and starting from December 2024 inappropriately filled checklist can be considered grounds for desk rejection.** For example, some authors provide misleading responses, or just check "yes" even for the questions that are not relevant for their paper.
+Responsible NLP research means (among other things) taking into account issues related to ethics and to reproducibility. Our submission form includes the responsible NLP research checklist (detailed explanation of all its questions is available [here](/responsibleNLPresearch)). Note, prior to February 2024, this was submitted as a separate PDF. Besides reminding the authors about the best practices, it also serves as a kind of FAQ for ACs and reviewers: they can get the information they need without spending the author response time and effort. **At ACL'25 the checklist will be published as an appendix to accepted papers, and starting from December 2024 inappropriately filled checklist can be considered grounds for desk rejection.** For example, some authors provide misleading responses, or just check "yes" even for the questions that are not relevant for their paper.
 
 - [ ] The responsible NLP checklist is filled in appropriately.
 - [ ] The authors follow the latest [ACL policy on the authorship and the use of generative AI](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Guidelines_for_Generative_Assistance_in_Authorship).

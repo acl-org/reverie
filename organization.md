@@ -6,41 +6,7 @@ permalink: /organization
 
 ## Support
 
-If you want general support regarding ARR, please contact `support at aclrollingreview.org`
-
-## ACL Rolling Review Board
-
-<div class="person" markdown="0">
-  <img src="images/people/julia_hockenmaier.jpg" alt="Julia Hockenmaier">
-  <div class="person-info">
-    <a href="https://cs.illinois.edu/about/people/all-faculty/juliahmr">Julia Hockenmaier</a><br>
-    University of Illinois at Urbana-Champaign, USA
-  </div>
-</div>
-
-<div class="person" markdown="0">
-  <img src="images/people/placeholder.jpg" alt="Yusuke Miyao">
-  <div>
-    <a href="https://www.u-tokyo.ac.jp/focus/en/people/k0001_02152.html#">Yusuke Miyao</a><br>
-    The University of Tokyo, Japan
-  </div>
-</div>
-
-<div class="person" markdown="0">
-  <img src="images/people/smaranda_muresan.jpg" alt="Smaranda Muresan">
-  <div>
-    <a href="https://www.cs.columbia.edu/~smara/">Smaranda Muresan</a><br>
-    Columbia University, USA
-  </div>
-</div>
-
-<div class="person" markdown="0">
-  <img src="images/people/thamar_solorio.jpg" alt="Thamar Solorio">
-  <div>
-    <a href="https://mbzuai.ac.ae/study/faculty/thamar-solorio/">Thamar Solorio</a><br>
-    University of Houston and MBZUAI
-  </div>
-</div>
+For general support regarding ARR, please contact `support at aclrollingreview.org`.
 
 ## Editors in Chief
 
@@ -154,13 +120,7 @@ Contact: `editors at aclrollingreview.org`
 
 ## Editorial Staff
 
-<div class="person" markdown="0">
-  <img src="images/people/goggi_sara.jpg" alt="Sara Goggi">
-  <div>
-    <a href="https://www.ilc.cnr.it/en/people/sara-goggi/">Sara Goggi</a><br>
-    CNR-ILC
-  </div>
-</div>
+TBA
 
 ## Technical Staff
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Senior Action Editors"
+title: "Senior Area Chairs"
 permalink: /saes
 
 ---

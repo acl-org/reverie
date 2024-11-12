@@ -30,42 +30,49 @@
 
             <nav>
               <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/cfp">CFP</a>
-              <a href="{{ site.baseurl }}/dates">Dates/Venues</a>
+              <div class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">CFP & Submissions</a>
+                <div class="dropdown-content">
+                  <a href="{{ site.baseurl }}/reviewing">How ARR works</a>
+                  <a href="{{ site.baseurl }}/cfp">Call for papers</a>
+                  <a href="{{ site.baseurl }}/dates">Dates & Venues</a>
+                  <a href="{{ site.baseurl }}/authorchecklist">⚠ Common problems with submissions</a>
+                </div>
+                </div>
               <!--a href="{{ site.baseurl }}/reviewing">Reviewing</a-->
               <div class="dropdown">
                 <a href="javascript:void(0)" class="dropbtn">Guidelines</a>
                 <div class="dropdown-content">
-                  <a href="{{ site.baseurl }}/reviewing">ARR process</a>
+                  <a href="{{ site.baseurl }}/authors">Authors guidelines</a>   
+                  <a href="{{ site.baseurl }}/responsibleNLPresearch">Responsible NLP checklist</a>                                 
                   <a href="{{ site.baseurl }}/reviewerguidelines">Reviewer guidelines</a>
                   <a href="{{ site.baseurl }}/acguidelines">Area Chair guidelines</a>
-                  <a href="{{ site.baseurl }}/authors">Authors guidelines</a>                  
                 </div>
                 </div>
               <!-- <a href="{{ site.baseurl }}/aes">Action Editors</a> -->
 	       <!-- <a href="{{ site.baseurl }}/organizers">Venue Organizers</a> -->
                <!-- <a href="{{ site.baseurl }}/mentorship">Mentorship</a> -->
-              <a href="http://stats.aclrollingreview.org/">Stats</a>
+
               <!-- <a href="{{ site.baseurl }}/people">People</a> -->
               <div class="dropdown">
                 <a href="javascript:void(0)" class="dropbtn">People</a>
                 <div class="dropdown-content">
-                  <a href="{{ site.baseurl }}/organization">Organization</a>
-                  <a href="{{ site.baseurl }}/saes">SAEs</a>
-                  <a href="{{ site.baseurl }}/aes">AEs</a>
+                  <a href="{{ site.baseurl }}/organization">ARR team</a>
+                  <a href="{{ site.baseurl }}/saes">SACs</a>
+                  <a href="{{ site.baseurl }}/aes">ACs</a>
                   <a href="{{ site.baseurl }}/reviewers">Reviewers</a>
                   <a href="{{ site.baseurl }}/others">Others</a>
                 </div>
               </div>
               <div class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Changelog</a>
+                <a href="javascript:void(0)" class="dropbtn">ARR reporting</a>
                 <div class="dropdown-content">
-                  <a href="{{ site.baseurl }}/changelog">Changelog</a>
-                  <a href="{{ site.baseurl }}/future">Future</a>
+                  <a href="http://stats.aclrollingreview.org/">Statistics</a>
+                  <a href="{{ site.baseurl }}/changelog">ARR changelog</a>
+                  <a href="{{ site.baseurl }}/future">Future plans</a>
                 </div>
                 </div>
-              
-              <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR">OpenReview Login</a>
+                <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR">ARR@OpenReview</a>                
             </nav>
           </header>
         </div>

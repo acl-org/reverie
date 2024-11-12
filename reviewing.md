@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ARR Reviewing Process"
+title: "How ARR works"
 permalink: /reviewing
 ---
 

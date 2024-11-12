@@ -8,13 +8,6 @@ permalink: /people
 
 If you want general support regarding ARR, please contact `support at aclrollingreview.org`
 
-## ACL Rolling Review Board
-
-- Julia Hockenmaier, University of Illinois at Urbana-Champaign, USA
-- Yusuke Miyao, The University of Tokyo, Japan
-- Smaranda Muresan, Columbia University, USA
-- Thamar Solorio, University of Houston and MBZUAI
-
 ## Editors in Chief
 
 - Mausam, IIT Delhi

@@ -8,15 +8,19 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Currently in the pipeline
 
+* Hiring a part-time editorial assistant
+* Hiring a part-time workflow manager (to support OpenReview functionality development and ongoing bug fixes)
 * Improving support of the work by best paper committees
 * Improving the ethics review process integration
 * Improving reviewed paper information display for SACs
 * ARR EiCs participate in the work of [ACL Standing Peer Review Committee](https://www.aclweb.org/portal/content/acl-peer-review-standing-committee), which is currently [considering the core design of the peer review process at ACL](https://www.aclweb.org/portal/content/acl-survey-what-should-acl-peer-review-process-be-future)
+* Reviewer history (in development at OpenReview with feedback from venues using OpenReview, including ARR)
 
 # Changelog
 
 ## October 2024
 
+* Updating CFP and author checklist (based on common problems in recent submissions)
 * Flagging review issues by authors, and reporting action on these flags by the ACs (lead: Anna, Jonathan)
 * Improving instructions for author response period (lead: Mausam, Anna)
 * Major updates for the AC and reviewer guidelines (lead: Anna, Michael)

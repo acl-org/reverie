@@ -6,6 +6,7 @@ permalink: /others
 
 ## Past Editors in Chief
 
+- Thamar Solorio, Mohamed Bin Zayed University of Artificial Intelligence
 - Aline Villavicencio, University of Sheffield, Federal University of Rio Grande do Sul
 - Amanda Stent, Colby College
 - Goran Glavaš, University of Würzburg
