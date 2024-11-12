@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Common Submission problems to check for"
+title: "Authors Beware: Common Submission Problems"
 permalink: /authorchecklist
 ---
 
