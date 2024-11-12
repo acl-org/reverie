@@ -61,9 +61,9 @@ If you want general support regarding ARR, please contact `support at aclrolling
 </div>
 
 <div class="person" markdown="0">
-  <img src="images/people/placeholder.jpg" alt="Vincent Ng">
+  <img src="images/people/vincent_ng.jpg" alt="Vincent Ng">
   <div>
-    <a href="https://www.hlt.utdallas.edu/~vince">Vincent Ng</a><br>
+    <a href="https://personal.utdallas.edu/~vince/">Vincent Ng</a><br>
     University of Texas at Dallas
   </div>
 </div>
@@ -249,9 +249,9 @@ Contact: `tech at aclrollingreview.org`
 </div>
 
 <div class="person" markdown="0">
-  <img src="images/people/dongqi_pu.jpg" alt="Dongqi Pu">
+  <img src="images/people/dongqi_liu.jpg" alt="Dongqi Liu">
   <div>
-    <a href="https://dongqi.me/">Dongqi Pu</a><br>
+    <a href="https://dongqi.me/">Dongqi Liu</a><br>
     Saarland University, Germany
   </div>
 </div>
