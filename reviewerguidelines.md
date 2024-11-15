@@ -15,7 +15,7 @@ The ARR peer review guidelines are a work-in-progress and will be updated as ARR
 - _10.08.2023_ Instructions on access to old reviews
 - _02.11.2021_ First version of this document (Anna Rogers, Isabelle Augenstein)
 
-🆕 **Review issue reporting.** Starting in October 2024, ARR will now provide the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. Since the reviewer guidelines are also used by the authors during the response period, some sections of these guidelines now have codes for review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors.
+🆕 **Review issue reporting.** Starting in October 2024, ARR will now provide the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. Since the reviewer guidelines are also used by the authors during the response period, some sections of these guidelines now have codes for review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors. More details [here](https://aclrollingreview.org/authors#step2.2).
 
 # What are the confidentiality and anonymity rules for reviewing?
 
