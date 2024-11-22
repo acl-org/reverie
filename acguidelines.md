@@ -340,9 +340,17 @@ There are three ways you can contact a reviewer assigned to one of your submissi
 
 ![alt_text](images/guidelines/9-AC-messaging-reviewers-part1.png "image_tooltip"){:width="40%"}
 
-3) From your AC console, click on “Show reviewers” next to the paper title. You will see reviewers’ email addresses. You can then **email an individual reviewer from your own email account**. This is the recommended approach when chasing missing reviewers.
+> Please note that notifications from OpenReview comments will go to reviewer's emails, and unfortunately some of them read them there and respond via email rather than OpenReview. And then their response will be routed to ARR support, and you will not see it. See [below](#openreview-how-to-find-emails-of-reviewers) for how to reach out to reviewers directly by email.
+
+## [OpenReview] How to find emails of reviewers? 
+
+**Option 1.** From your AC console, click on “Show reviewers” next to the paper title. You will see reviewers’ email addresses. You can then **email an individual reviewer from your own email account**. This is the recommended approach when chasing missing reviewers.
 
 ![alt_text](images/guidelines/10-AC-messaging-reviewers-part2.png "image_tooltip"){:width="40%"}
+
+**Option 2.** From the "modify reviewer assignments" interface. This way you can browse reviewers who are not yet assigned to your papers, and reach out to them directly to confirm whether they would take an assignment. 
+
+![alt_text](images/guidelines/19-AC-reviewer-email.png "image_tooltip"){:width="40%"}
 
 ## [OpenReview] 🆕 How to use the chat feature? 
 
@@ -368,12 +376,17 @@ We have rolled out a new chat feature this cycle to respond to community request
 
 ![alt_text](images/guidelines/15-AC-assign-emergency-part1.png "image_tooltip")
 
-![alt_text](images/guidelines/16-AC-assign-emergency-part2.png "image_tooltip")
+Choose "Emergency Area" (the old "Emergency" score is currently not displayed) in the "Order By" box. Ensure that assignments are less than max load, and ideally that assignments are less than emergency load, as OR does not currently keep track of regular vs emergency assignments.
 
-![alt_text](images/guidelines/17-AC-assign-emergency-part3.png "image_tooltip")
+![alt_text](images/guidelines/16-AC-assign-emergency-part2_new.png "image_tooltip")
+
+![alt_text](images/guidelines/17-AC-assign-emergency-part3_new.png "image_tooltip")
 
 ![alt_text](images/guidelines/18-AC-assign-emergency-part4.png "image_tooltip")
 
+If you get an error where OpenReview doesn't create the assignments you are trying to create, it likely means that there is a cap on the number of assignments (and invitations count towards the total limit, so be careful with inviting too many people). If there are old assignments where you know that the reviewer will not submit, you can remove them to decrease the cap for a specific paper.
+
+See [here](#openreview-how-to-find-emails-of-reviewers) for how to find reviewer emails so you could reach out to them directly. When communicating via OpenReview, sometimes people respond to email notifications directly by email instead of on OpenReview, and then they get routed to ARR support and you may lose time.
 
 ## Reviewer xyz flagged the paper for anonymity issues, what should I do? 
 
