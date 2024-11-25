@@ -15,6 +15,23 @@
 
   </head>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var dropdowns = document.querySelectorAll('.dropdown');
+      dropdowns.forEach(function (dropdown) {
+        var dropbtn = dropdown.querySelector('.dropbtn');
+        dropbtn.addEventListener('click', function (e) {
+          e.preventDefault();
+          dropdown.classList.toggle('active');
+        });
+        dropbtn.addEventListener('touchstart', function (e) {
+          e.preventDefault();
+          dropdown.classList.toggle('active');
+        });
+      });
+    });
+  </script>
+  
   <body>
     <div id="bar"></div>
     <div class="wrapper-container">
