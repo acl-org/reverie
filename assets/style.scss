@@ -355,7 +355,7 @@ nav {
   a {
     margin-left: 20px;
     color: $darkGray;
-    text-align: right;
+    text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
 
@@ -1231,6 +1231,12 @@ Modules - reusable parts of our design
 
 /* Mobile-specific styles */
 @media screen and (max-width: 768px) {
+  nav a {
+    text-align: left;
+    display: block;
+    margin-left: 0;
+  }
+	
   .dropdown {
     display: block;
   }
