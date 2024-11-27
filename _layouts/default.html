@@ -38,11 +38,11 @@
       width: 100%;
       transition: all 0.3s ease;
     }
+
     .sidebar {
       position: fixed;
       top: 0;
       right: -480px;
-      /* 调整默认隐藏的位置 */
       width: 400px;
       height: 100%;
       background-color: #333;
@@ -52,8 +52,8 @@
       z-index: 999;
       display: flex;
       flex-direction: column;
-
     }
+
     .sidebar a {
       display: block;
       color: #fff;
@@ -68,7 +68,6 @@
 
     .sidebar.active {
       right: 0;
-      /* 显示侧边栏 */
     }
 
     .dropdown {
@@ -110,6 +109,32 @@
 
     .menu-icon.active .line:nth-child(3) {
       transform: rotate(-45deg) translate(5px, -5px);
+    }
+    @media (max-width: 768px) {
+      .menu-icon {
+        position: fixed;
+        top: 10px;
+        right: 20px;
+        width: 40px;
+        height: 40px;
+      }
+
+      .sidebar {
+        width: 80%;
+        right: -100%;
+      }
+
+      .sidebar.active {
+        right: 0;
+      }
+
+      .dropdown-content {
+        position: static;
+      }
+
+      .wrapper-container {
+        padding-top: 60px;
+      }
     }
   </style>
 </head>
