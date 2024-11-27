@@ -101,9 +101,7 @@ A: We are working on a more structured workflow for this. In the meanwhile, you 
 
 A: Generally, meta-reviewers are summarizing the discussion, and cannot be expected to mention every detail of either reviews or author response (especially if it is too long). They may also skip the mention of the response if they do not believe it to satisfactorily address the issue. In such cases, triggering more work and interaction between chairs is more likely to get them annoyed with you, rather than help your case. 
 
-**Q: Under what circumstances should I submit a confidential comment about the metareview? **
-
-
+**Q: Under what circumstances should I submit a confidential comment about the metareview?**
 
 * If the metareview hinges on a big issue that you believe you resolved conclusively, and under the recommended thread length (2 responses per review thread), but the reviewers and AC did not notice. You should link to the specific comment.
 * If there is a technical problem with the meta-review, e.g. the meta-review for a different paper was pasted by mistake.
@@ -119,14 +117,15 @@ If you can see ways to markedly improve your paper or are unhappy with your revi
 - A preference regarding reviewers: same or all new
 - A preference regarding the meta-reviewer: same or new
 
-
-**What is an 'explanation of revisions?' **The explanation of revisions should summarize the changes made and include a point-by-point response indicating how you have addressed each weakness and suggestion listed by each reviewer. It should be submitted as a pdf file, and the same file may include a color-coded version of the paper, to make it easier for the reviewers and ACs to see what changed in the new version.
+**What is an 'explanation of revisions?'** The explanation of revisions should summarize the changes made and include a point-by-point response indicating how you have addressed each weakness and suggestion listed by each reviewer (or your justifications for not doing some of the revisions). It should be submitted as a pdf file, and the same file may include a color-coded version of the paper, to make it easier for the reviewers and ACs to see what changed in the new version. If you choose to do that, please use different colors for content that is actually new vs content that was moved from other parts of the paper.
 
 A revision does not have to accept every suggestion of every reviewer. Reviewers understand that there are limitations on what can be accomplished in a single paper. We recommend engaging with reviewers’ constructive feedback in the explanation of revisions. Even if you request new reviewers, they will have access to reviews from previous rounds after submitting their own reviews, so ignoring good advice is not recommended.
 
-**How often can I resubmit? **You can resubmit a paper as many times as you like (though expect diminishing returns after the first couple of rounds). The submission requirements are the same as first-round review (4-page limit for short papers, 8 pages for long papers).
+**How often can I resubmit?** You can resubmit a paper as many times as you like (though expect diminishing returns after the first couple of rounds). The submission requirements are the same as first-round review (4-page limit for short papers, 8 pages for long papers). 
 
-**When does it qualify as a new submission? **If the paper is presented as a new submission, it must be on a sufficiently different topic that any prior reviews no longer apply. Simply reframing the paper, further improving the methods, adding more baselines or analysis does not count. **A paper that has been previously submitted but fails to acknowledge the previous version will be desk rejected**.
+**If my paper was accepted for publication in one venue, can I resubmit to another?** Yes, as long as you do not accept the publication offer. If the paper gets published, then it is final. 
+
+**When does it qualify as a new submission?** If the paper is presented as a new submission, it must be on a sufficiently different topic that any prior reviews no longer apply. Simply reframing the paper, further improving the methods, adding more baselines or analysis does not count. **A paper that has been previously submitted but fails to acknowledge the previous version will be desk rejected**.
 
 **When should I ask for new reviewers?**
 
