@@ -1,136 +1,210 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% seo title=false %}
-    {% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  {% seo title=false %}
+  {% include meta.html %}
 
-    <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/ARR.png">
-    {% include analytics_head.html %}
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
-  </head>
+  <meta name="theme-color" content="#000000">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/ARR.png">
+  {% include analytics_head.html %}
 
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var dropdowns = document.querySelectorAll('.dropdown');
-      dropdowns.forEach(function (dropdown) {
-        var dropbtn = dropdown.querySelector('.dropbtn');
-        dropbtn.addEventListener('click', function (e) {
-          e.preventDefault();
-          dropdown.classList.toggle('active');
-        });
-        dropbtn.addEventListener('touchstart', function (e) {
-          e.preventDefault();
-          dropdown.classList.toggle('active');
-        });
-      });
-    });
-  </script>
-  
-  <body>
-    <div id="bar"></div>
-    <div class="wrapper-container">
-      <div class="wrapper-masthead">
-        <div class="container">
-          <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+    }
 
-            <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p> 
-            </div>
+    .menu-icon {
+      position: fixed;
+      top: 10px;
+      right: 450px;
+      width: 30px;
+      height: 30px;
+      cursor: pointer;
+      z-index: 1000;
+    }
 
-            <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <div class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">CFP & Submissions</a>
-                <div class="dropdown-content">
-                  <a href="{{ site.baseurl }}/reviewing">How ARR works</a>
-                  <a href="{{ site.baseurl }}/cfp">Call for papers</a>
-                  <a href="{{ site.baseurl }}/dates">Dates & Venues</a>
-                  <a href="{{ site.baseurl }}/authorchecklist">⚠ Common problems with submissions</a>
-                </div>
-                </div>
-              <!--a href="{{ site.baseurl }}/reviewing">Reviewing</a-->
-              <div class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Guidelines</a>
-                <div class="dropdown-content">
-                  <a href="{{ site.baseurl }}/authors">Authors guidelines</a>   
-                  <a href="{{ site.baseurl }}/responsibleNLPresearch">Responsible NLP checklist</a>                                 
-                  <a href="{{ site.baseurl }}/reviewerguidelines">Reviewer guidelines</a>
-                  <a href="{{ site.baseurl }}/acguidelines">Area Chair guidelines</a>
-                </div>
-                </div>
-              <!-- <a href="{{ site.baseurl }}/aes">Action Editors</a> -->
-         <!-- <a href="{{ site.baseurl }}/organizers">Venue Organizers</a> -->
-               <!-- <a href="{{ site.baseurl }}/mentorship">Mentorship</a> -->
+    .line {
+      background-color: #000;
+      height: 3px;
+      margin: 5px 0;
+      width: 100%;
+      transition: all 0.3s ease;
+    }
+    .sidebar {
+      position: fixed;
+      top: 0;
+      right: -480px;
+      /* 调整默认隐藏的位置 */
+      width: 400px;
+      height: 100%;
+      background-color: #333;
+      padding: 20px;
+      box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
+      transition: right 0.3s ease;
+      z-index: 999;
+      display: flex;
+      flex-direction: column;
 
-              <!-- <a href="{{ site.baseurl }}/people">People</a> -->
-              <div class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">People</a>
-                <div class="dropdown-content">
-                  <a href="{{ site.baseurl }}/organization">ARR team</a>
-                  <a href="{{ site.baseurl }}/saes">SACs</a>
-                  <a href="{{ site.baseurl }}/aes">ACs</a>
-                  <a href="{{ site.baseurl }}/reviewers">Reviewers</a>
-                  <a href="{{ site.baseurl }}/others">Others</a>
-                </div>
-              </div>
-              <div class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">ARR reporting</a>
-                <div class="dropdown-content">
-                  <a href="http://stats.aclrollingreview.org/">Statistics</a>
-                  <a href="{{ site.baseurl }}/changelog">ARR changelog</a>
-                  <a href="{{ site.baseurl }}/future">Future plans</a>
-                </div>
-                </div>
-                <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR">ARR@OpenReview</a>                
-            </nav>
-          </header>
-        </div>
+    }
+    .sidebar a {
+      display: block;
+      color: #fff;
+      padding: 15px;
+      text-decoration: none;
+      width: 100%;
+    }
+
+    .sidebar a:hover {
+      background-color: #575757;
+    }
+
+    .sidebar.active {
+      right: 0;
+      /* 显示侧边栏 */
+    }
+
+    .dropdown {
+      position: relative;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: relative;
+      background-color: #333;
+      padding: 10px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    .dropdown-content a {
+      color: #fff;
+      padding: 10px;
+      text-decoration: none;
+      display: block;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #575757;
+    }
+
+    .menu-icon.active .line:nth-child(1) {
+      transform: rotate(45deg) translate(5px, 5px);
+    }
+
+    .menu-icon.active .line:nth-child(2) {
+      opacity: 0;
+    }
+
+    .menu-icon.active .line:nth-child(3) {
+      transform: rotate(-45deg) translate(5px, -5px);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="menu-icon" id="menu-icon">
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+  </div>
+
+  <nav id="sidebar" class="sidebar">
+    <a href="{{ site.baseurl }}/">Home</a>
+    <div class="dropdown">
+      <a href="javascript:void(0)" class="dropbtn">CFP & Submissions</a>
+      <div class="dropdown-content">
+        <a href="{{ site.baseurl }}/reviewing">How ARR works</a>
+        <a href="{{ site.baseurl }}/cfp">Call for papers</a>
+        <a href="{{ site.baseurl }}/dates">Dates & Venues</a>
+        <a href="{{ site.baseurl }}/authorchecklist">⚠ Common problems with submissions</a>
       </div>
-
-      <div class="wrapper-main">
-        <div id="main" role="main" class="container">
-          {{ content }}
-        </div>
+    </div>
+    <div class="dropdown">
+      <a href="javascript:void(0)" class="dropbtn">Guidelines</a>
+      <div class="dropdown-content">
+        <a href="{{ site.baseurl }}/authors">Authors guidelines</a>
+        <a href="{{ site.baseurl }}/responsibleNLPresearch">Responsible NLP checklist</a>
+        <a href="{{ site.baseurl }}/reviewerguidelines">Reviewer guidelines</a>
+        <a href="{{ site.baseurl }}/acguidelines">Area Chair guidelines</a>
       </div>
+    </div>
+    <div class="dropdown">
+      <a href="javascript:void(0)" class="dropbtn">People</a>
+      <div class="dropdown-content">
+        <a href="{{ site.baseurl }}/organization">ARR team</a>
+        <a href="{{ site.baseurl }}/saes">SACs</a>
+        <a href="{{ site.baseurl }}/aes">ACs</a>
+        <a href="{{ site.baseurl }}/reviewers">Reviewers</a>
+        <a href="{{ site.baseurl }}/others">Others</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <a href="javascript:void(0)" class="dropbtn">ARR reporting</a>
+      <div class="dropdown-content">
+        <a href="http://stats.aclrollingreview.org/">Statistics</a>
+        <a href="{{ site.baseurl }}/changelog">ARR changelog</a>
+        <a href="{{ site.baseurl }}/future">Future plans</a>
+      </div>
+    </div>
+    <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR">ARR@OpenReview</a>
+  </nav>
 
-      <div class="wrapper-footer">
-        <div class="container">
-          <footer class="footer">
-            {% include svg-icons.html %}
-          </footer>
-        </div>
+  <div class="wrapper-container">
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}"
+              alt="{{ site.title }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+        </header>
       </div>
     </div>
 
-    {% include analytics.html %}
-    <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var dropdown = document.querySelector('.dropdown');
-    var dropbtn = document.querySelector('.dropbtn');
+    <div class="wrapper-main">
+      <div id="main" role="main" class="container">
+        {{ content }}
+      </div>
+    </div>
 
-    dropbtn.addEventListener('click', function (e) {
-      e.preventDefault();
-      dropdown.classList.toggle('active');
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+        </footer>
+      </div>
+    </div>
+  </div>
+
+  {% include analytics.html %}
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var menuIcon = document.getElementById('menu-icon');
+      var sidebar = document.getElementById('sidebar');
+
+      menuIcon.addEventListener('click', function () {
+        sidebar.classList.toggle('active');
+        menuIcon.classList.toggle('active');
+      });
     });
-  });
-</script>
-
-<script>
-  // source for this hack: https://thatgurjot.com/til/clickable-checkboxes-on-jekyll-hugo/
-  // clickable checkboxes
-const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-checkboxes.forEach(checkbox => {
-// remove the disabled attribute; added by kramdown by default
-checkbox.removeAttribute('disabled');
-});
   </script>
-  </body>
+</body>
+
 </html>
