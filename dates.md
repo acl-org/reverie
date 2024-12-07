@@ -15,7 +15,7 @@ The schedule for 2024 is:
 | [June 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/June) | June 4th - June 15th | July 25th - 30th | August 15th |
 | August 2024 | August 15th | September 25th - 30th | October 15th |
 | October 2024 | October 15th | November 22nd - 25th | December 15th |
-| December 2024 | December 15th |  | February 15th |
+| December 2024 | December 15th | January 24th - 29th | February 15th |
 
 ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
 
