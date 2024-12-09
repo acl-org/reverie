@@ -146,7 +146,7 @@ Once you have submitted the revision, you return to [Step 2](#step2) above.
 
 Once the paper has received complete reviews (including a meta-review), and is no longer under review by ARR, it is eligible for submission to a venue for a decision on acceptance. This submission is called **commitment**.
 
-Commitment occurs through a submission form set up by the PCs of the venue (e.g., in Softconf, OpenReview, or a Microsoft / Google Form). The form asks for information about the paper, including the ARR URL for the paper (e.g., https://openreview.net/forum?id=abcd1234 where "abcd1234" is a random string unique to your paper). After the commitment deadline, ARR provides the reviews to the venue and they make a decision. The venue will contact authors directly to notify you of accept/reject decisions.
+Commitment occurs through a submission form set up by the PCs of the venue (e.g., in Softconf, OpenReview, or a Microsoft / Google Form). The form asks for information about the paper, including the ARR URL for the paper (e.g., `https://openreview.net/forum?id=abcd1234` where `abcd1234` is a random string unique to your paper). After the commitment deadline, ARR provides the reviews to the venue and they make a decision. The venue will contact authors directly to notify you of accept/reject decisions.
 
 Different venues have different commitment deadlines, and therefore, different commitment periods when the paper is under consideration by a venue. ARR does not place any restrictions on committing to multiple venues simultaneously, or committing to one venue and submitting for direct review at another venue. However, venues typically do not permit these types of dual commitments / submissions.
 
@@ -157,24 +157,18 @@ If the paper is accepted, it is no longer eligible for further rounds of review 
 If the commitment phase ends without an acceptance, the state of the paper returns to [Step 3](#step3). That is, it can be committed to another venue, resubmitted for review at ARR, or submitted elsewhere for review.
 
 **Q: If the venue provides an optional "response to the meta-review" field, how should it be used?** <br/>
-That field is optional, and it is up to you to decide whether to use it, based on your situation and submission history. Here are some possibilities:
-- summarizing the revision history
-- outlining what changes suggested by reviewers/AC you commit to for the camera-ready
-- if there was a serious procedural issue with the meta-review that you had submitted a confidential comment about, please summarize the issue and link to that comment (see [Step 3](#step3))
-- iff the meta-review raises a new issue to which you did not have a chance to respond, and there is a field for collecting such responses, you can respond to it. Please mark it clearly and be brief, e.g. <br/>
-*New issue raised only in the meta-review:' &lt;issue>.  <br/>
-Author response: &lt;response>.* 
 
-Should it be used for an assurance that reviewer/metareviewer suggestions will be heeded in the camera-ready?** 
-A: You are encouraged to use this field to clearly state what changes will be made in the camera-ready version. It is not in your interest to try to present a one-sided summary of the discussion. 
+That field is optional, and it is up to you to decide whether to use it, based on your situation and submission history. Here are some possibilities:
+
+* summarizing the revision history
+* outlining what changes suggested by reviewers/AC you commit to for the camera-ready
+* if there was a serious procedural issue with the meta-review that you had submitted a confidential comment about, please summarize the issue and link to that comment (see [Step 3](#step3)) It is not in your interest to try to use this mechanism for litigating minor issues, or for presenting a one-sided view of the discussion. 
+* iff the meta-review raises a new issue that none of the reviewers brought up, you can respond to it. Please mark it clearly and be brief, e.g. <br/>
+*New issue raised only in the meta-review:' &lt;issue>. <br/>
+Author response: &lt;response>.* 
 
 **Q: Are ACs allowed to raise new issues in the meta-review, that reviewers didn't raise?** <br/>
 A: ARR AC guidelines are now public and you can read them [here](/acguidelines.md). Yes, ACs can bring up new issues when they strongly believe that there is something serious that the reviewers missed.
-
-**Q: Can I respond to new issues raised in the meta-review?** <br/>
-A: Iff the meta-review raises a new issue to which you did not have a chance to respond, and there is a field for collecting such responses, you can respond to it. Please mark it clearly and be brief, e.g. <br/>
-*New issue raised only in the meta-review:' &lt;issue>.  <br/>
-Author response: &lt;response>.* 
 
 **Q: Will there be any negative consequences for the paper if it is committed and then rejected?** <br/>
 No, you can still resubmit a revised version in a subsequent cycle. You just cannot simultaneously have the paper under commitment and in a new round of review.
@@ -196,7 +190,7 @@ Questions about when the proceedings will appear on the ACL Anthology should be 
 
 **Q: How to Submit on OpenReview?**
 
-See this guide: https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing
+See this [guide](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing).
 
 **Q: Why does ARR not provide a decision with reviews?**
 
@@ -221,9 +215,9 @@ Please contact: `support at aclrollingreview.org`
 
 **Q: What are the requirements of the anonymity policy for authors?**
 
-ARR follows [the ACL Policies for Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation). Submissions must be anonymized as detailed in [Step 1](#step1).
+ARR follows [the ACL Policies for Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation). Submissions must be properly anonymized as detailed in [CFP](/cfp.md). See [here](/authorchecklist.md) for some common issues.
 
-Beginning with the February 15, 2024 ARR deadlines, there is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review.
+Beginning with the February 15, 2024 ARR deadlines, there is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review. See [CFP](/cfp.md) and [here](/authorchecklist.md) for more information on the incentives for anonymous submissions and their implementation at ARR.
 
 ## Contributing to the Paper and Review Dataset
 
