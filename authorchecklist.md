@@ -8,8 +8,11 @@ We reserve the right to desk reject the submissions that violate the requirement
 
 Please **check all these points in advance**, ideally at least a week. Some of the chese points require coordination with other authors or other people in your research group, and/or may remind you that some substantial changes are necessary in the paper.
 
-## Author and reviewer registration
+## Scope of submissions
 
+- [ ] The paper follows the [scope of ARR CFP](https://aclrollingreview.org/cfp#scope-of-submissions). ARR is a reviewing venue that mainly serves the conferences of the Association for Computational Linguistics, and the submissions are expected to make a contribution to the computational processing of language. 
+
+## Author and reviewer registration
 
 - [ ] All authors are included, and in the final order. No changes to author list or its order will be allowed after submission. Please consult the guidelines on [authorship criteria](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Authorship).
 - [ ] All authors **completed the OpenReview profiles prior to submission**. You may refer to [this tutorial](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit?usp=sharing).
@@ -51,7 +54,6 @@ Note that any supplemental materials (code, data, appendices) should be truly su
 Please refer to [this page](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation) for the ACL policies for review and citation. Most of this information is also covered in the template and format guidelines linked above.
 
 ## Responsible NLP Research
-
 
 Responsible NLP research means (among other things) taking into account issues related to ethics and to reproducibility. Our submission form includes the responsible NLP research checklist (detailed explanation of all its questions is available [here](/responsibleNLPresearch)). Note, prior to February 2024, this was submitted as a separate PDF. Besides reminding the authors about the best practices, it also serves as a kind of FAQ for ACs and reviewers: they can get the information they need without spending the author response time and effort. **At ACL'25 the checklist will be published as an appendix to accepted papers, and starting from December 2024 inappropriately filled checklist can be considered grounds for desk rejection.** For example, some authors provide misleading responses, or just check "yes" even for the questions that are not relevant for their paper.
 

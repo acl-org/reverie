@@ -131,7 +131,6 @@ A revision does not have to accept every suggestion of every reviewer. Reviewers
 
 If you felt the previous-round reviews were constructive, consider asking for the same reviewers. If you satisfactorily addressed their concerns in the revision, they will likely improve their evaluation of the paper.
 
-
 * ARR will attempt to reassign the same reviewers if requested. Because of availability constraints, it is still possible that you will receive some new reviewers.
 * Repeat reviewers (as well as those substituting for the previous reviewers if unavailable) are instructed to focus on whether the revisions adequately address the weaknesses previously identified, and are discouraged from raising new issues unless the revisions resulted in contradictory findings or questionable results not present in the previous round of reviews.
 
@@ -157,7 +156,16 @@ If the paper is accepted, it is no longer eligible for further rounds of review 
 
 If the commitment phase ends without an acceptance, the state of the paper returns to [Step 3](#step3). That is, it can be committed to another venue, resubmitted for review at ARR, or submitted elsewhere for review.
 
-**Q: If the venue provides an "optional" commitment comment, is it bad to leave it blank? Should it be used for an assurance that reviewer/metareviewer suggestions will be heeded in the camera-ready?** <br/>
+**Q: If the venue provides an optional "response to the meta-review" field, how should it be used?** <br/>
+That field is optional, and it is up to you to decide whether to use it, based on your situation and submission history. Here are some possibilities:
+- summarizing the revision history
+- outlining what changes suggested by reviewers/AC you commit to for the camera-ready
+- if there was a serious procedural issue with the meta-review that you had submitted a confidential comment about, please summarize the issue and link to that comment (see [Step 3](#step3))
+- iff the meta-review raises a new issue to which you did not have a chance to respond, and there is a field for collecting such responses, you can respond to it. Please mark it clearly and be brief, e.g. <br/>
+*New issue raised only in the meta-review:' &lt;issue>.  <br/>
+Author response: &lt;response>.* 
+
+Should it be used for an assurance that reviewer/metareviewer suggestions will be heeded in the camera-ready?** 
 A: You are encouraged to use this field to clearly state what changes will be made in the camera-ready version. It is not in your interest to try to present a one-sided summary of the discussion. 
 
 **Q: Are ACs allowed to raise new issues in the meta-review, that reviewers didn't raise?** <br/>
@@ -167,6 +175,10 @@ A: ARR AC guidelines are now public and you can read them [here](/acguidelines.m
 A: Iff the meta-review raises a new issue to which you did not have a chance to respond, and there is a field for collecting such responses, you can respond to it. Please mark it clearly and be brief, e.g. <br/>
 *New issue raised only in the meta-review:' &lt;issue>.  <br/>
 Author response: &lt;response>.* 
+
+**Q: Will there be any negative consequences for the paper if it is committed and then rejected?** <br/>
+No, you can still resubmit a revised version in a subsequent cycle. You just cannot simultaneously have the paper under commitment and in a new round of review.
+
 
 # Step 6: Camera-ready {#step6}
 
