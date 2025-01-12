@@ -24,16 +24,18 @@ Organizers of venues that would like to subscribe to ARR (either in Full or Hybr
 
 ## Commitment (fetching ARR Reviews)
 
-Venue organizers need to decide the exact mechanism by which they will enable authors of ARR-processed papers to commit to their venue. ARR (in collaboration with OpenReview) will then provide access to the all reviews of the committed papers. In principle, there are the following options: 
+Venue organizers need to decide the exact mechanism by which they will enable authors of ARR-processed papers to commit to their venue. OpenReview will then provide access to the all reviews of the committed papers. In principle, there are the following options: 
 
-1. The venue uses OpenReview
-	- In this case, the organizers should contact OpenReview (`info@openreview.net`) to create their own venue instance and inform the OpenReview that they subscribe to ARR 
-	- The venue needs to create a commitment form for authors to commit their ARR-processed papers: there needs to be a field in which authors will simply copy the URL to the OpenReview forum of their ARR submission 
-		- For Full ARR venues, this commitment form is the only submission form to be created;
-		- Hybrid venues that use OpenReview should use two submission buttons in a single OpenReview instance, or two separate venue request forms, one for non-ARR reviewing and another for commitment of ARR-reviews papers. We recommend coordinatation with OpenReview to decide on the best configuration;
-		- Instead of importing ARR reviews into the venue's OpenReview instance, OpenReview will provide read access to ARR forums of committed papers to the venue (assigned SACs, PCs)
-		
-2. The venue does not use OpenReview
+1. The venue uses OpenReview, receiving reviews from ARR only
+    - In this case, the organizers should [submit a venue request form](https://openreview.net/group?id=OpenReview.net/Support) and inform the OpenReivew staff that they subscribe to ARR.
+    - Once the commitment venue is deployed, there will be a field present in the submission form named "paper_link" for authors to commit their ARR processed papers. Here authors will simply provide the URL to the OpenReview forum of their ARR submission. This field is validated, so it will check whether the forum link exists in an ARR venue before allowing the author to submit.
+    - For Full ARR venues, this commitment form is the only submission form to be created.
+
+2. The venue uses OpenReview, with its own review process in OpenReview and reviews from ARR
+    - In this case, submit two venue request forms, one for non-ARR reviewing and another for commitment of ARR-reviews papers.
+    - OpenReview will provide read access to ARR forums of committed papers to the venue (assigned SACs, PCs) or import ARR reviews into the venue's OpenReview instance depending on the API used for the original ARR submission. Please contact OpenReview (<info@openreview.net>) when the submission deadline has passed and you're ready to begin the reviewing process.
+
+3. The venue does not use OpenReview
 	- In this case, the organizers need to figure out how to let the authors of ARR-reviewed papers indicate that they would like to commit to the venue
 		- The authors need to provide a unique identifier of the ARR submission: the URL of the OpenReview forum of the ARR submission (https://openreview.net/forum?id=XXXXXXXXXXX)
 	- The organizers send to ARR the list of committed papers (the list of URLs of OpenReview forums of committed papers)
@@ -52,12 +54,3 @@ Venues subscribing to ARR as hybrid are encouraged to adopt the following wordin
 
 ARR provides reviews, it does not make any acceptance or rejection decisions for the venues. ARR, however, forbids revisions to be submitted to ARR while the paper is under consideration (i.e., committed) for publication in a venue. Also, naturally, papers archived in venue's proceedings can no longer be revised and resubmitted to ARR. This is why, once the venue finalizes their program/proceedings, organizers are encouraged to send back to ARR the list of ARR-reviewed submissions that had been committed, with the indication on whether the paper is archived in venue's proceedings (papers accepted for non-archival participation in the venue, are not forbidden from resubmissions to ARR).   
  
-
-
-
-
-
-
-
-
-
