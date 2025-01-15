@@ -31,7 +31,6 @@ ARR recognizes that there may be situations that qualify for an exemption from t
 - [ ] If the paper is a revision, the submission follows the [resubmissions policy in the CFP](cfp/#resubmission-policy): the previous version must be acknowledged, and you should provide a summary of changes and revisions. You can also provide justifications for not performing some of the requested changes or even requesting new AC/reviewers.
 - [ ] Optionally, you can include a color-coded version of the paper that highlights the revisions, in the same pdf as the revision notes. It may help the AC and reviewers to focus on assessing the changes.
 
-
 ## Paper Format
 
 - [ ] The paper follows page limits (8 for long, 4 for short, not including limitations and ethics sections).
@@ -49,7 +48,7 @@ Note that any supplemental materials (code, data, appendices) should be truly su
 - [ ] Any supplementary materials are also properly anonymized.
 - [ ] The acknowledgements section is not included.
 - [ ] There are no links to non-anonymous repositories or services like Dropbox that may track who opened the link.
-- [ ] The anonymity status set at submission time is binding. If you are not sure whether you will preprint the paper during the review period, please select "we are considering…" option.
+- [ ] The "preprint status" field is filled out appropriately. "We do not intend to release" option is binding. If you are not sure whether you will preprint the paper during the review period, please select the "we are considering…" option.
 
 Please refer to [this page](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation) for the ACL policies for review and citation. Most of this information is also covered in the template and format guidelines linked above.
 

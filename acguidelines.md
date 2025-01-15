@@ -30,6 +30,8 @@ ARR is manned by people spread across the globe, and as a result, emails and dea
 
 # ✅ **TASK 1. Initial submission checks**
 
+The first thing to check is whether you happen to know the paper and have a conflict of interest with it, or feel that it is completely out of your field of expertise. This is not a frequent phenomenon, but if it happens to you -- please reach out to your SAC and request a reassignment immediately.
+
 ## Checking reviewer assignments
 
 Check the quality of reviewer assignments and make changes if needed. When you change assignments, **please do not assign reviewers already at max load**. When you add a new reviewer to a paper, **do not forget to remove an existing reviewer**. At this point in the process, you can only use the reviewers already in the pool, and cannot bring in new reviewers.
@@ -244,6 +246,8 @@ It is OK if differences between reviewers remain as long as you understand the r
 **Using reviewer discussion to decide on revisions to request.** The discussion can also serve to get the reviewers to agree on top priorities for revision when the reviews contain many suggestions. It may help to list what you see as the top opportunities for improvement and ask reviewers whether they would raise their score for a revision that satisfies those points.
 
 Also, keep in mind that resubmissions do not have a higher page limit for addressing reviewer feedback, so if major additions are suggested, consider asking reviewers what can be removed to make space (or whether the format should be switched between short and long).
+
+**Can I use AI assistants for summarizing the reviews and discussions?** Meta-reviews, discussions and reviews are confidential materials, and as such, per [ACL publication ethics policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Guidelines_for_Generative_Assistance_in_Authorship) they **should not be submitted to non-privacy-preserving third-party services** (i.e. those that may store and/or use input user data for third-party services). The use of privacy-preserving tools is also governed by that policy: it is permissible for language/input assistance, but you are fully responsible for the content. If you end up providing a certain recommendation because the automated summary simply missed a key aspect of reviews or author response (within the recommended discussion length), that will be your responsibility.
 
 ## 🆕 Outstanding reviews and poor reviews 
 
