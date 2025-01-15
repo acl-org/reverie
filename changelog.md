@@ -8,9 +8,7 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Currently in the pipeline
 
-* Hiring a part-time editorial assistant (lead: Thamar)
-* Hiring a part-time workflow manager (to support OpenReview functionality development and ongoing bug fixes) (lead: Thamar)
-* Recruiting co-CTO (lead: Jonathan)
+* Developing a workflow for processign reported cases of [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) violations with the help of [ACL Publication Ethics Committtee](https://www.aclweb.org/portal/content/acl-publication-ethics-committee-0)
 * Improving support of the work by best paper committees
 * Improving the ethics review process integration
 * Improving reviewed paper information display for SACs
@@ -21,23 +19,29 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 ## December 2024
 
-* Updating the submission page to reflect the updated CFP and author instructions (lead: Anna, Michael)
-* Adding a form for reporting issues with meta-reviews (lead: Anna, Jonathan, help from Steven Bethard)
+* Updating the submission page to reflect the updated CFP and author instructions (leads: Anna, Michael)
+* Adding a form for reporting issues with meta-reviews (leads: Anna, Jonathan, help from Steven Bethard)
+* Updating ACLPUB based on common issues in submissions flagged for desk rejection (leads: Anna, Michael, Viviane, Sarv, help from Steven Bethard and Matt Post)
+* Onboarding for the new editorial assistant, workflow manager, and new co-CTO (leads: Thamar, Jonathan)
+* Updating Freshdesk setup and licensing (leads: Santu, Anna, Sudipta, with help from Jenn Rachford and David Yarowski)
+* Migrating internal ARR documentation (leads: Anna, Sudipta, Sonakshi)
+* Analysis of October 2024 review data (leads: Anna, Sudipta)
+* Working with incoming chairs for ACL, EMNLP and AACL 2025 to discuss and coordinate proposed further changes
 
 ## October 2024
 
 * Updating CFP and author instructions (based on common problems in recent submissions)
-* Flagging review issues by authors, and reporting action on these flags by the ACs (lead: Anna, Jonathan)
-* Improving instructions for author response period (lead: Mausam, Anna)
-* Major updates for the AC and reviewer guidelines (lead: Anna, Michael)
+* Flagging review issues by authors, and reporting action on these flags by the ACs (leads: Anna, Jonathan)
+* Improving instructions for author response period (leads: Mausam, Anna)
+* Major updates for the AC and reviewer guidelines (leads: Anna, Michael)
 * Improving ARR email templates (lead: Michael)
-* Creating a tutorial for PCs who work with ARR (lead: Anna, Viviane, Vincent)
+* Creating a tutorial for PCs who work with ARR (leads: Anna, Viviane, Vincent)
 * Updating the Responsible NLP checklist (lead: Anna)
 * Improved public statistics for review cycles (lead: Sudipta)
 
 ## August 2024
 
-* Fixing some functionality we lost in the OpenReview API update (lead: Jonathan, Sudipta)
+* Fixing some functionality we lost in the OpenReview API update (leads: Jonathan, Sudipta)
 * Onboarding three new EiCs
 * Starting the hiring process for the OpenReview support position (lead: Thamar)
 
