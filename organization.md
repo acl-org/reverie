@@ -118,21 +118,21 @@ Contact: `editors at aclrollingreview.org`
   </div>
 </div> -->
 
-<div class="person" markdown="0">
+<!-- <div class="person" markdown="0">
   <img src="" alt="Manuel Mager">
   <div>
     <a href="http://code.kiutz.com/">Manuel Mager</a><br>
   </div>
-</div>
+</div> -->
 
 ## Editorial Staff
 
-<div class="person" markdown="0">
+<!-- <div class="person" markdown="0">
   <img src="" alt="Sonakshi Chauhan">
   <div>
     <a href="">Sonakshi Chauhan</a><br>
   </div>
-</div>
+</div> -->
 
 ## Technical Staff
 
