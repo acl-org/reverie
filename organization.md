@@ -122,7 +122,6 @@ Contact: `editors at aclrollingreview.org`
   <img src="" alt="Manuel Mager">
   <div>
     <a href="http://code.kiutz.com/">Manuel Mager</a><br>
-    Google
   </div>
 </div>
 
