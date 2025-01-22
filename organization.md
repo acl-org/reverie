@@ -110,17 +110,30 @@ Contact: `editors at aclrollingreview.org`
   </div>
 </div>
 
-<div class="person" markdown="0">
+<!-- <div class="person" markdown="0">
   <img src="images/people/vinodkumar_prabhakaran.jpg" alt="Vinodkumar Prabhakaran">
   <div>
     <a href="https://research.google/people/vinodkumar-prabhakaran/">Vinodkumar Prabhakaran</a><br>
+    Google
+  </div>
+</div> -->
+
+<div class="person" markdown="0">
+  <img src="" alt="Manuel Mager">
+  <div>
+    <a href="http://code.kiutz.com/">Manuel Mager</a><br>
     Google
   </div>
 </div>
 
 ## Editorial Staff
 
-TBA
+<div class="person" markdown="0">
+  <img src="" alt="Sonakshi Chauhan">
+  <div>
+    <a href="">Sonakshi Chauhan</a><br>
+  </div>
+</div>
 
 ## Technical Staff
 
@@ -153,6 +166,23 @@ TBA
   <div>
     <a href="https://www.linkedin.com/in/dhruvrnaik/">Dhruv Naik</a><br>
     Curai Health
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/freda_shi.jpg" alt="Freda Shi">
+  <div>
+    <a href="https://cs.uwaterloo.ca/~fhs/">Freda Shi</a><br>
+    University of Waterloo
+  </div>
+</div>
+
+
+<div class="person" markdown="0">
+  <img src="images/people/holy_lovenia.jpeg" alt="Holy Lovenia">
+  <div>
+    <a href="https://holylovenia.github.io/">Holy Lovenia</a><br>
+    SEACrowd
   </div>
 </div>
 
