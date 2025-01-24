@@ -118,12 +118,13 @@ Contact: `editors at aclrollingreview.org`
   </div>
 </div> -->
 
-<!-- <div class="person" markdown="0">
-  <img src="" alt="Manuel Mager">
+<div class="person" markdown="0">
+  <img src="images/people/manuel_mager.png" alt="Manuel Mager">
   <div>
-    <a href="http://code.kiutz.com/">Manuel Mager</a><br>
+    <a href="">Manuel Mager</a><br>
+    Amazon
   </div>
-</div> -->
+</div>
 
 ## Editorial Staff
 
