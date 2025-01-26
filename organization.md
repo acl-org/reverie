@@ -146,10 +146,18 @@ Contact: `editors at aclrollingreview.org`
 </div>
 
 <div class="person" markdown="0">
+  <img src="images/people/freda_shi.jpg" alt="Freda Shi">
+  <div>
+    <a href="https://cs.uwaterloo.ca/~fhs/">Freda Shi</a><br>
+    University of Waterloo (Co-Chief Technical Officer)
+  </div>
+</div>
+
+<div class="person" markdown="0">
   <img src="images/people/jonathan_kummerfeld.jpg" alt="Jonathan K. Kummerfeld">
   <div>
     <a href="https://jkk.name/">Jonathan K. Kummerfeld</a><br>
-    University of Sydney (Co-Chief Technical Officer)
+    University of Sydney
   </div>
 </div>
 
@@ -168,15 +176,6 @@ Contact: `editors at aclrollingreview.org`
     Curai Health
   </div>
 </div>
-
-<div class="person" markdown="0">
-  <img src="images/people/freda_shi.jpg" alt="Freda Shi">
-  <div>
-    <a href="https://cs.uwaterloo.ca/~fhs/">Freda Shi</a><br>
-    University of Waterloo
-  </div>
-</div>
-
 
 <div class="person" markdown="0">
   <img src="images/people/holy_lovenia.jpeg" alt="Holy Lovenia">
@@ -311,4 +310,3 @@ Contact: `support at aclrollingreview.org`
 }
 
 </style>
-
