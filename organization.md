@@ -128,12 +128,13 @@ Contact: `editors at aclrollingreview.org`
 
 ## Editorial Staff
 
-<!-- <div class="person" markdown="0">
-  <img src="" alt="Sonakshi Chauhan">
+<div class="person" markdown="0">
+  <img src="images/people/sonakshi_chauhan.png" alt="Sonakshi Chauhan">
   <div>
-    <a href="">Sonakshi Chauhan</a><br>
+    <a href="https://sonakshi-chauhan.ghost.io/about-me/">Sonakshi Chauhan</a><br>
+    University of Glasgow
   </div>
-</div> -->
+</div>
 
 ## Technical Staff
 
