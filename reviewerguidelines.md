@@ -557,7 +557,7 @@ As a fresh reviewer, you should form your own opinion of the paper.  Note that y
 
 ## Q: What should I do if I cannot complete my assignment due to a personal emergency?
 
-If your ability to complete your assignments on time has been compromised, please reach out to your AC as soon as possible by posting an official comment on the papers you are assigned to and selecting SAC and EiCs as readers of the comment too. 
+If your ability to complete your assignments on time has been compromised due to a personal emergency, please reach out to your ACs and SACs as soon as possible by filling out the Emergency Declaration form on the page for each paper you are assigned to.  The ACs and SACs will then try to find an emergency backup reviewer for each paper.  Note that this creates extra work for everyone involved and may be detrimental to review quality, so you should only use this option in real cases of emergency. 
 
 
 ## Q: Should I flag this for ethics review?
