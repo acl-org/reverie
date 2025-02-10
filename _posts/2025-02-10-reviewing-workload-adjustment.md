@@ -15,4 +15,6 @@ As we continue to fine-tune our review process, we would like to implement the f
 
 The above changes can also be found in the OpenReview submission form, as shown below. Please also note that we reserve the right to desk reject papers that do not contribute to reviewing effort without sufficient justification.
 
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1VPAhSSO3VD3iG5NTthFOCNxTE-yQpuPRx7O-CNZRnii1tv8Gdjlryy6EwTulk93NWS-TLoHD38fHjCW-vtFA-fxEIQ9aPoGVwqiqwUccy59Kd1FgJmoxd11amS_N_dwD__Gh3g?key=5nFmQJ_ZS-2l9rXmQOYTre6Z)
+
 As always, we welcome your feedback. Please send an email to editors@aclrollingreview.org with your comments and suggestions. We will continue to review our processes with the goal of improving the overall reviewing experience and increasing trust in the community.
