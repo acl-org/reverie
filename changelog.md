@@ -17,6 +17,17 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Changelog
 
+## May 2025
+
+* Migrating to the new 10-week cycle schedule (leads: Anna)
+
+## February 2025
+
+* Improving submission and review forms (leads: Anna, ACL and EMNLP PCs)
+* Updating the [workload requirement](_posts/2025-02-10-reviewing-workload-adjustment.md), in consultation with ACL'25 PCs
+* Corresponding updates to the guidelines and email templates
+
+
 ## December 2024
 
 * Updating the submission page to reflect the updated CFP and author instructions (leads: Anna, Michael)
@@ -27,6 +38,7 @@ One major benefit of ARR is that we can steadily improve the peer review process
 * Migrating internal ARR documentation (leads: Anna, Sudipta, Sonakshi)
 * Analysis of October 2024 review data (leads: Anna, Sudipta)
 * Working with incoming chairs for ACL, EMNLP and AACL 2025 to discuss and coordinate proposed further changes
+* Collaborating with the peer review committee on the proposal to change to 10-week cycles
 
 ## October 2024
 

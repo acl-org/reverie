@@ -18,7 +18,7 @@ Some caveats:
 
 # Step 1: Submit your paper for ARR review {#step1}
 
-There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md).
+There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md). As part of submission, you will be asked to nominate a reviewer from the list of the authors (see the [CFP](/cfp#reviewing-requirements)).
 
 The submission must adhere to the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html), which is available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj).
 
@@ -59,7 +59,7 @@ All back-and-forth comments can be made until a final deadline, after which the 
 **Q: Is it a good idea to press reviewers to raise their scores if I believe my response addressed their concerns? If they don’t, is that grounds for a confidential comment to the AC?** You can ask politely to change the evaluation if your response addressed the reviewer’s concern, but pressing them is probably not a good idea. Also, the reviewer may simply not be convinced by your arguments, and hence no, it’s not automatically grounds for flagging the issue to the AC.
 
 
-## 🆕 Review issue reporting {#step2.2}
+## 🆕 Review and meta-review issue reporting {#step2.2}
 
 After the author discussion period ends, you will have a new option to report review issues. It is a new form of "official comment" on a review that you will see in OpenReview interface (screenshot below).
 
@@ -74,6 +74,8 @@ Our list is further expanded to 12 issue types, marked as <span class='reviewIss
 **The review issue reporting mechanism should be used only in the cases when the reviewer has not done due diligence.** It is generally not in the authors' interest to try to present scientific disagreements as a case of reviewer misconduct, or try to litigate minor issues that would likely not make much difference in the assessment of the paper. When flagging any issues with the reviews, the authors should provide a justification.
 
 The meta-review form now contains checkboxes for the ACs to specify whether any reported review issues were taken into account in the meta-review, or the AC found the complaint unreasonable.
+
+Starting from December 2024, there is a similar form for reporting serious issues with meta-reviews. 
 
 # Step 3: Receive the final reviews and choose next step {#step3}
 
@@ -136,7 +138,7 @@ If you felt the previous-round reviews were constructive, consider asking for th
 
 If you felt the previous-round reviews reflected a lack of expertise or engagement with the topic of your paper, consider asking for new reviewers.
 
-* Generally we accept such requests, but the expectation is that papers have been revised based on the earlier reviews and it is up to the discretion of the action editors or editors in chief whether the request is granted. This request is not considered a mark against the paper. (We understand that a certain amount of subjectivity is present in reviewing and want to give papers a fair shot at brand new reviews.)
+* Generally we accept such requests, but the expectation is that papers have been revised based on the earlier reviews and it is up to the discretion of the area chairs or editors in chief whether the request is granted. This request is not considered a mark against the paper. (We understand that a certain amount of subjectivity is present in reviewing and want to give papers a fair shot at brand new reviews.)
 * New reviewers will not see the prior reviews initially. Only after they submit their own review will they have access to the prior reviews (new in August 2023). Note that new reviewers are instructed to form their own view of the paper rather than to focus primarily on the revisions.
 * In the (rare) cases where there was a very low-quality review that the authors flagged, the ACs have the option to recommend that a specific review is removed from view. 
 
@@ -192,12 +194,6 @@ Questions about when the proceedings will appear on the ACL Anthology should be 
 
 See this [guide](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing).
 
-**Q: Why does ARR not provide a decision with reviews?**
-
-ARR implements the review stage but not the final acceptance recommendation/decision stage of traditional conference reviewing. Separating the two allows us to return the full set of reviews to authors faster and give authors more choice of what to do next with the paper ([Step 3](#step3)), including the option to revise and resubmit.
-
-For EACL 2024, ACL 2024, and NAACL 2024, note that deadlines are structured such that reviews after the submission deadline cycle can be be immediately committed for consideration by the conference—in which case the total time from submission to decision will be ~3 months, which is similar to the traditional conference review process (if not shorter).
-
 **Q: Since reviews follow the paper when it is resubmitted, isn't there a risk that getting unlucky with reviewers in the first round will doom the paper?**
 
 For a resubmission ([Step 4](#step4)), authors have the option to request new reviewers, ensuring the paper gets a fresh look. While the old reviews will still be associated with the paper, to avoid [anchoring biases](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)), a new reviewer will only have access to them after submitting their own review. Moreover, authors have the opportunity to respond to any problems that they perceive with the previous-round reviews. <br/>
@@ -210,6 +206,22 @@ No, ARR is a self-contained review system and all reviews are done within ARR. W
 **Q: I have further questions about ARR submission. Who should I contact?**
 
 Please contact: `support at aclrollingreview.org`
+
+**Q: What are the qualification requirements for authors nominated to review?**
+
+See the "reviewing requirements" section of the [CFP](/cfp#reviewing-requirements).
+
+## Commitment
+
+**Q: Why does ARR not provide a decision with reviews?**
+
+ARR implements the review stage but not the final acceptance recommendation/decision stage of traditional conference reviewing. Separating the two allows us to return the full set of reviews to authors faster and give authors more choice of what to do next with the paper ([Step 3](#step3)), including the option to revise and resubmit.
+
+For EACL 2024, ACL 2024, and NAACL 2024, note that deadlines are structured such that reviews after the submission deadline cycle can be be immediately committed for consideration by the conference — in which case the total time from submission to decision will be ~3 months, which is similar to the traditional conference review process (if not shorter).
+
+**Q: If my paper was revised, but I got more favorable reviews in the first round, can I commit the first rather than the second version?**
+
+Yes, this has long been allowed at ARR. However, you need to provide a link to the later submission, and a justification for why the second round of reviews was problematic. Presumably there were some serious issues with reviews or meta-review violating our revise-and-resubmit instructions for [reviewers]](/reviewerguidelines.md#how-to-review-resubmissions) or [ACs](/acguidelines.md#-preparing-a-meta-review-for-resubmissions).
 
 ## Anonymity {#anon}
 

@@ -89,12 +89,11 @@ If you feel that this submission is a very bad match on one of these criteria, p
 
 Most of the desk rejects happen before the reviewing starts, because the program and area chairs do a cursory check for obvious issues prior to reviewer assignment. Still, only reviewers read the papers in-depth, and so they are also provided with a checklist to flag the problems that other people may have missed. For all your assignments you need to complete the [reviewer checklist](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.g29396624085_0_10), which asks you to consider the following issues that may qualify a paper for desk rejection:
 
-
 * **Appropriateness:** Is this submission appropriate for ARR? If in doubt, consider the scope described in [ARR CFP](https://aclrollingreview.org/cfp) and any relevant conferences (e.g. for October 2024 cycle the NAACL CFP specifies the special theme  ["NLP in a Multicultural World"](https://2025.naacl.org/calls/papers/).
 * **Anonymity violations.** As of January 2024, non-anonymous pre-prints are permitted for ARR, but [submissions should still be properly anonymized](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation) (e.g., not containing explicit references to the authors' prior work, acknowledgements, links to non-anonymous repositories or services like Dropbox that may track who opened the link). 
 * **Style guides or length violations:** the paper should be desk-rejected if it does not follow the [style guides](https://acl-org.github.io/ACLPUB/formatting.html) or goes over the page limit (4 pages for short, 8 for long papers, excluding the ethical considerations and limitations).
 * **Missing Limitations section**
-* **Incorrect information in the [responsible NLP checklist](https://aclrollingreview.org/responsibleNLPresearch/).** E.g. some authors just say 'yes' for all questions, or for questions that do not even apply to their work (e.g. 'yes' to questions about human participants when their paper doesn't involve any). For now we ask you to flag it, and starting from December 2024 such violations will qualify for desk rejections. Minor honest mistakes can be excused (e.g. the information is provided in a different section than specified, due to some last-minute editing). 
+* **Inappropriate responses to the [responsible NLP checklist](https://aclrollingreview.org/responsibleNLPresearch/).** E.g. some authors just say 'yes' for all questions, or for questions that do not even apply to their work (e.g. 'yes' to questions about human participants when their paper doesn't involve any). Starting from December 2024 such violations qualify for desk rejections. Minor honest mistakes can be excused (e.g. the information is provided in a different section than specified, due to some last-minute editing). 
 * **Possible ethics issues.** Ethics issues are not grounds for desk rejection, but they can be grounds for sending the paper for an extra round of ethics reviewing. Here are the [guidelines](https://aclrollingreview.org/ethics-flagging-guidelines/) for identifying the kinds of papers that may need such an extra review.  \
 If you flag a paper, you need to provide a justification. Otherwise, enter "None"
 
@@ -460,13 +459,13 @@ Note: reproducibility score refers to <em>reproducibility</em> (being able to ru
 
 ## 5. Check that your scores reflect the review <span class='reviewIssue'>I3</span>
 
-Look at your review and the numeric scores and check that your list of weaknesses actually justifies that score. If you give a low *Soundness* score without finding any major faults, this means that your review is not a faithful explanation of your recommendation. One reason for that could be that you secretly rely on some unconscious bias or heuristics for your evaluation, like the ones listed in the previous section.
+Starting with February 2025, ARR reviewers are asked to provide three scores: soundness, excitement, and overall recommendation. 
 
-Another reason why reviewers sometimes give "meh" scores without indicating serious problems is that they just do not find the topic interesting/exciting, even if the work is sound. If that is your main issue with the submission, it should be reflected in the "overall recommendation" rather than the soundness score.
+<span class='reviewIssue'>I3</span> The *soundness* scores must be justified by the text of the review . If you give a low *Soundness* score without finding any major faults, this means that your review is not a faithful explanation of your recommendation, and you need to revise it. One possible reason for low soundness scores without sufficient justification could be reliance on some unconscious bias or heuristic, like the ones listed in the previous section. Likewise, low reproducibility scores should be justified.
 
-Even then, do try to step away from your own research agenda. Of course, we cannot be equally enthusiastic about everything, but before giving a “meh” score, ask yourself: are there other people who would be excited about it, or who would benefit from this perspective?
+Sometimes you may find the work sound, but not something that is interesting for you personally. Such preferences are more subjective and should be reflected in a separate *excitement* score, which is orthogonal to the assessment of the soundness of the paper. Excitement scores reflect our personal taste, and so do not necessarily come with explicit reasons.
 
-
+The *Overall assessment* score is an explicit recommendation for the outcome of this paper, if it were committed to an *ACL venue. This is a composite score reflecting your assessment of soundness, excitement, and also other factors like novelty and impact. All papers recommended for Findings and main conferences are expected to be sufficiently sound and reproducible, but you may consider a paper worthy of the main conference even if you personally are not excited about it. For example, improvements in efficiency of some algorithm, or creating a high-quality resource for a language/domain that does not yet have resources of that type may not sound very novel or exciting, but you may still consider it a significant contribution due to its potential impact (for its target community).
 
 ## 6. Check that the tone is professional and neutral <span class='reviewIssue'>I4</span>
 
@@ -539,7 +538,7 @@ If you are substituting for one of the original reviewers, then you will not ini
 
 ## Fresh reviewers
 
-As a fresh reviewer, you should form your own opinion of the paper.  Note that you will not initially see the previous reviews or the authors’ revision notes (new in August 2023), but after you submit your review, you will gain access to the old reviews and the revision notes (click on the "Previous URL" link in the submission metadata).  At this point, you should check the revision notes to see whether any weaknesses in your review were previously identified, and if so, edit your review to explain why the revisions were not fully adequate to address the weaknesses in question.  You may also consider whether the previous reviews identified weaknesses that you hadn’t thought of, and if so, whether you agree that they represent serious concerns meriting inclusion in your review.
+As a fresh reviewer, you should form your own opinion of the paper.  Note that you will not initially see the previous reviews or the authors’ revision notes (new in August 2023), but after you submit your review, you will gain access to the old reviews and the revision notes (click on the "Previous URL" link in the submission metadata).  At this point, you should check the revision notes to see whether any weaknesses in your review were previously identified, and if so, edit your review to explain why the revisions were not fully adequate to address the weaknesses in question. You may also consider whether the previous reviews identified weaknesses that you hadn’t thought of, and if so, whether you agree that they represent serious concerns meriting inclusion in your review.
 
 ---
 

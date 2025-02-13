@@ -16,12 +16,14 @@ Please **check all these points in advance**, ideally at least a week. Some of t
 
 - [ ] All authors are included, and in the final order. No changes to author list or its order will be allowed after submission. Please consult the guidelines on [authorship criteria](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Authorship).
 - [ ] All authors **completed the OpenReview profiles prior to submission**. You may refer to [this tutorial](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit?usp=sharing).
-- [ ] The author who is [qualified and nominated to review](https://aclrollingreview.org/reviewing-workload-requirement/) has (prior to submission):
-    - [ ] filled in Semantic Scholar, DBLP, and ACL Anthology profiles, and [updated their listed papers to reflect their current research interests](https://aclrollingreview.org/reviewerguidelines#how-to-get-assigned-to-papers-that-match-your-interests-well).
-    - [ ] indicated their availability in this reviewing cycle, ideally reciprocating the amount of effort that their submission(s) will receive (each submission receives at least 3 reviews and a metareview, plus effort from chairs and any emergency reassignments). 
-    - [ ] if you are a member of a large research group that submits multiple papers in the same ARR cycle: **make sure that you are nominating different senior co-authors.** If there are too few qualified reviewers in the group, and their nomination on multiple papers is unavoidable, they should  increase their review load, and undertake to mentor [secondary reviewers](https://aclrollingreview.org/reviewerguidelines#q-can-i-use-a-secondary-reviewer). Again, each submitted paper receives at least 4 reviews incl. meta-review, and the system is not sustainable if some groups receive a lot more volunteer effort than they contribute.
+- [ ] At least one qualified author or a willing qualified colleague was [nominated to review](https://aclrollingreview.org/reviewing-workload-requirement/). For that author(s) the following has to be done (ideally prior to submission, and at most within 48 hours after submission, incl. at least one business day):
+    - [ ] fill in Semantic Scholar, DBLP, and ACL Anthology profiles, and [update their listed papers to reflect their current research interests](https://aclrollingreview.org/reviewerguidelines#how-to-get-assigned-to-papers-that-match-your-interests-well).
+    - [ ] indicate their availability in this reviewing cycle, at least 4 per submitted paper (each submission receives at least 3 reviews and a metareview, plus effort from chairs and any emergency reassignments). 
+    - [ ] if you are a member of a large research group that submits multiple papers in the same ARR cycle: **make sure that you are nominating different senior co-authors.** If there are too few qualified people, and their nomination on multiple papers is unavoidable, they should  increase their review load (at least 4 reviews for each paper, with maximum 16). They are encouraged to mentor [secondary reviewers](https://aclrollingreview.org/reviewerguidelines#q-can-i-use-a-secondary-reviewer). Again, each submitted paper receives at least 4 reviews incl. meta-review, and the system is not sustainable if some groups receive a lot more volunteer effort than they contribute.
 
-ARR recognizes that there may be situations that qualify for an exemption from the reviewing load (e.g. if no authors are qualified to review, or if the qualified author is already serving at ARR in some other capacity). The form also allows to specify your justification for requesting an exemption.
+All author-nominated reviewers are expected to submit their reviews on time and in accordance with [ARR reviewing guidelines](./reviewerguidelines.md). ARR reserves the right to desk reject the papers the authors of which do not contribute to the reviewing effort appropriately without sufficient justification. 
+
+ARR recognizes that there may be situations that qualify for an exemption from the reviewing load (e.g. if no authors are qualified to review, or if the qualified author is already serving at ARR in some other capacity). The form allows to specify your justification for requesting an exemption.
 
 ## Dual submissions and resubmissions
 
@@ -33,10 +35,9 @@ ARR recognizes that there may be situations that qualify for an exemption from t
 
 ## Paper Format
 
-- [ ] The paper follows page limits (8 for long, 4 for short, not including limitations and ethics sections).
-- [ ] The paper has a section titled "Limitations" after the conclusion (*not* in the appendices).
-- [ ] The Limitations section only includes the discussion of limitations, and no new experiments, figures or analysis.
-- [ ] The paper follows [ACL formatting](https://acl-org.github.io/ACLPUB/formatting.html). You are encouraged to use the [ACL pubcheck tool](https://github.com/acl-org/aclpubcheck) to check for common problems. There is an official [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj). Note that this template has a `[review]` setting that must be on for the submission.
+- [ ] The paper follows page limits (8 for long, 4 for short, not including limitations and ethical considerations).
+- [ ] The paper has a section titled "Limitations", the placement of which follows the [ACL formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html). This section can only include the discussion of limitations, and no new experiments, figures or analysis.
+- [ ] The paper follows [ACL formatting](https://acl-org.github.io/ACLPUB/formatting.html). You are encouraged to use the [ACL pubcheck tool](https://github.com/acl-org/aclpubcheck) to check for common problems. There is an official [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj). Note that this template has a `[review]` setting that must be on for the submission. Note that **[ACLPUB formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html) were updated in January 2024 with clarifications on font size in figures and tables, placement of limitations and ethical considerations sections, and two-column formatting of appendices.**
 - [ ] The limitations section, the optional ethical considerations section, references, and appendices should be included in the pdf for the paper (not counting towards the page limit), and not be submitted as a separate PDF.
 - [ ] There are no comments or any leftover meta-text from prior revisions.
 
