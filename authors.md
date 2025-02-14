@@ -59,7 +59,7 @@ All back-and-forth comments can be made until a final deadline, after which the 
 **Q: Is it a good idea to press reviewers to raise their scores if I believe my response addressed their concerns? If they don’t, is that grounds for a confidential comment to the AC?** You can ask politely to change the evaluation if your response addressed the reviewer’s concern, but pressing them is probably not a good idea. Also, the reviewer may simply not be convinced by your arguments, and hence no, it’s not automatically grounds for flagging the issue to the AC.
 
 
-## 🆕 Review and meta-review issue reporting {#step2.2}
+## 🆕 Review issue reporting {#step2.2}
 
 After the author discussion period ends, you will have a new option to report review issues. It is a new form of "official comment" on a review that you will see in OpenReview interface (screenshot below).
 
@@ -73,9 +73,7 @@ Our list is further expanded to 12 issue types, marked as <span class='reviewIss
 
 The meta-review form now contains checkboxes for the ACs to specify whether any reported review issues were taken into account in the meta-review, or the AC found the complaint unreasonable.
 
-Starting from December 2024, there is a similar form for reporting serious issues with meta-reviews. 
-
-![alt_text](images/guidelines/metareview_issue_report.png "metareview issue rating form")
+Starting from December 2024, there is a similar form for reporting serious issues with meta-reviews (see [below](#step3)). 
 
 # Step 3: Receive the final reviews and choose next step {#step3}
 
@@ -95,21 +93,21 @@ Considerations:
 - Reviewer feedback and scores do not directly indicate whether the paper will be accepted if committed to a venue. In general, it is expected that reviews that are very positive on the whole will most likely lead to acceptance, and reviews that are negative on the whole will most likely lead to rejection. There are no guarantees, however: the program committee members making the acceptance/rejection decision will consider the totality of the reviews and pool of committed papers while drawing on their own expertise and editorial preferences. See [sec. 7 of ACL'23 report](https://aclanthology.org/2023.acl-long.911/) for analysis of the effect of reviews, meta-reviews, and SAC recommendations on the final decision.
 - Different venues (e.g., main conferences vs. workshops) that consider ARR-reviewed papers may have different qualitative thresholds for acceptance.
 
-**Q: Can I report issues with meta-reviews, like with reviews?**
+## 🆕 Meta-review issue reporting {#step3.2}
 
-A: We are working on a more structured workflow for this. In the meanwhile, you can use the confidential comment mechanism, with the comment addressed to SACs and program chairs.
+Starting from December 2024, it is possible to report issues with meta-reviews. This mechanism is meant for reporting procedural issues or serious violations of ARR policies. It is *not* in the interest of the authors to use this mechanism for trying to argue against a reasonable difference of perspectives on the merits of the paper. This is more likely to get the chairs annoyed with you, than to make them reconsider the core points of the meta-review.
+
+Please see the list of issues that can be reported through the meta-review issue report form below. Note that for <span class='reviewIssue'>MI3</span>, the report should be backed up by references to the specific guidelines/policies. 
+
+![alt_text](images/guidelines/metareview_issue_report.png "metareview issue rating form")
 
 **Q: If a metareview mentions weaknesses/suggestions raised by reviewers but does not explicitly acknowledge the author responses regarding those suggestions, should this be flagged?**
 
 A: Generally, meta-reviewers are summarizing the discussion, and cannot be expected to mention every detail of either reviews or author response (especially if it is too long). They may also skip the mention of the response if they do not believe it to satisfactorily address the issue. In such cases, triggering more work and interaction between chairs is more likely to get them annoyed with you, rather than help your case. 
 
-**Q: Under what circumstances should I submit a confidential comment about the metareview?**
+The recommended length of the discussion at ARR is maximum 2 author responses per review thread. The ACs are not expected to read more than that. If they missed a response that conclusively resolves an issue on which evaluation hinges, but neither reviewers nor AC noticed it, please flag it (<span class='reviewIssue'>MI5</span>), explain the issue and provide a link to the comment.
 
-* If the metareview hinges on a big issue that you believe you resolved conclusively, and under the recommended thread length (2 responses per review thread), but the reviewers and AC did not notice. You should link to the specific comment.
-* If there is a technical problem with the meta-review, e.g. the meta-review for a different paper was pasted by mistake.
-* If there is **a serious procedural violation of the [AC guidelines](/acguidelines.md)**, e.g. if the meta-review contains material that is not relevant to the paper, if it's rude, if the recommendation does not match the text, if it's unspecific. You should back any such claims with references to the guidelines, similarly to the review issue reporting. Just like with the review issue flagging, it is not in your interest to try to litigate minor issues in this way: it is more likely to get the chairs annoyed with you, than to make them reconsider the core points of the meta-review.
-
-# Step 4: Resubmit for another round of review (optional) {#step3.5}
+# Step 4: Resubmit for another round of review (optional) {#step4}
 
 If you can see ways to markedly improve your paper or are unhappy with your reviews, consider revising it and resubmitting to a subsequent ARR review cycle.
 
