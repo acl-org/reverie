@@ -28,6 +28,8 @@ We apologize in advance: you might receive ARR-related correspondence redundantl
 
 ARR is manned by people spread across the globe, and as a result, emails and deadlines sometimes fall onto time/days that are convenient for one location but not others. We kindly ask for your understanding and hope that you can still help within your own time constraints.
 
+> ❗ **If at any point in the cycle you find that your ability to perform AC duties was compromised due to a personal emergency, please fill out the [Emergency Declaration form](/reviewerguidelines.md#q-what-should-i-do-if-i-cannot-complete-my-assignment-due-to-a-personal-emergency) as soon as possible.**
+
 # ✅ **TASK 1. Initial submission checks**
 
 The first thing to check is whether you happen to know the paper and have a conflict of interest with it, or feel that it is completely out of your field of expertise. This is not a frequent phenomenon, but if it happens to you -- please reach out to your SAC and request a reassignment immediately.
@@ -89,15 +91,14 @@ What about the AC, i.e. yourself? If this is a resubmission, and the authors req
 For each submission, you need to **complete the AC checklist**. It reports on the above reviewer assignment checks, and it also asks ACs to verify that papers follow the call for papers and submission guidelines, including: 
 
 <div class="checklist" markdown='1'>
- - [ ] Is the paper appropriate to *CL?  <br/>
+ - [ ] Is the paper appropriate for *ACL venues? <br/>
 If in doubt, consider the scope described in [ARR CFP](https://aclrollingreview.org/cfp) and the CFP of any conferences associated with a given review cycle
- - [ ] Is the paper properly formatted according to the template? <br/>
-Consider the [ACL formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html) 
- - [ ] Does the paper have the proper length?  <br/>
-TLDR: 4 pages for short papers, 8 for long, excluding sections for limitations and ethical considerations
+ - [ ] Is the paper properly formatted according to the [ACL guidelines](https://acl-org.github.io/ACLPUB/formatting.html)? Please note that ACL has separate LaTeX and Microsoft Word templates, and PDFs produced by these templates look different from each other. <br/>
+ - [ ] Does the paper have the proper length? <br/>
+Short papers: 4 content pages maximum, Long papers: 8 content pages maximum. Sections on ethical considerations and limitations do not count towards page limit.
+ - [ ] Does the paper have a section entitled "Limitations"?
  - [ ] Is the paper properly anonymized?  <br/>
 TLDR: no clear self-citations, acknowledgements, or non-anonymous repository links. Resources also shouldn't be linked from services like Dropbox, which may track who opened the links
- - [ ] Is the mandatory section titled 'Limitations' present?
  - [ ] Is the [Responsible Checklist](https://aclrollingreview.org/responsibleNLPresearch/) filled appropriately?  <br/>
 E.g. some authors just say 'yes' for all questions, or for questions that do not even apply to their work (e.g. 'yes' to questions about human participants when their paper doesn't involve any). For now we ask you to flag it, and starting from December 2024 such violations will qualify for desk rejections. Minor honest mistakes can be excused (e.g. the information is provided in a different section than specified, due to some last-minute editing). 
  - [ ] Does the submission have [3 reviewers](#checking-reviewer-assignments)? <br/>
@@ -105,9 +106,13 @@ We cannot afford more than 3. Please remove an assignment if you add another rev
  - [ ] Are the reviewers [diverse, in regards to seniority, geographies, and institutions](#checking-reviewer-assignments)? This criterion should be respected as much as possible with the available reviewer pool.
  - [ ] Should this paper be sent for an in-depth ethics review? (if so, you need to provide a justification). <br/>
 Please refer to the [Guidelines for ethics review flagging](https://aclrollingreview.org/ethics-flagging-guidelines/). Ethics process happens in parallel to the main review process, so **without your flagging problematic papers in this checklist, the ethics review process cannot start on time.** 
- - [ ] If the paper is a resubmission, does the [link to the previous submission](#how-to-check-reviewing-assignments-for-resubmissions) work?
- - [ ] If this is a resubmission, has the authors' request regarding keeping or changing reviewers been respected?  <br/>
+ 
+ If the paper is a resubmission: 
+ 
+ - [ ] does the [link to the previous submission](#how-to-check-reviewing-assignments-for-resubmissions) work?
+ - [ ] has the authors' request regarding keeping or changing reviewers been respected?  <br/>
 If not, answer 'No' and please modify the assignments as described [here](#how-to-check-reviewing-assignments-for-resubmissions).
+- [ ] is it accompanied by revision notes listing the changes made? (field: 'explanation of revisions PDF').
 </div>
 
 Most adjustments to reviewer assignments need to happen on this stage. After ARR releases reviewer assignments, making changes will be a lot more work for you, as you would need to notify both the newly assigned and un-assigned reviewers. 
@@ -185,7 +190,7 @@ In the rare cases of serious malpractice you may see reviews that are so bad tha
 
 Between-reviewer discussion is less common on OpenReview, but if you happen to notice a case where that might be warranted (e.g. that reviewers contradict each other), you can point that out and invite them to discuss it before the start of author response. OR has a new [chat feature](#openreview--how-to-use-the-chat-feature) that may help with this.
 
-**Review chasing.** You will likely have some reviews missing by the reviews-due deadline. You can easily check which papers have missing reviewers by going to your 'Assigned submissions' list, and entering `+numOfficialReviewDone<3` in the search field. Some of them may find that they are unable to complete some or all of their reviews due to personal emergencies; in these cases we ask them to notify you as soon as possible by filling out the Emergency Declaration form on the page for the paper.
+**Review chasing.** You will likely have some reviews missing by the reviews-due deadline. You can easily check which papers have missing reviewers by going to your 'Assigned submissions' list, and entering `+numOfficialReviewDone<3` in the search field. Some of them may find that they are unable to complete some or all of their reviews due to personal emergencies; in these cases we ask them to notify you as soon as possible by filling out the [Emergency Declaration form](/reviewerguidelines.md#q-what-should-i-do-if-i-cannot-complete-my-assignment-due-to-a-personal-emergency) on the page for the paper.
 
 You can do the following:
 
@@ -211,15 +216,33 @@ At this stage, the authors are the main drivers of the discussion, and you do no
 
 If you are not yet familiar with OR interface, instructions for submitting the meta-reviews are [here](#openreview-how-to-submit-meta-review).
 
-## Meta-review form
+## Meta-review form 
 
 Generally, a meta-review is a summary of the reviews, discussions, and author response, providing a recommendation to the chairs. It should state the most prominent strengths and weaknesses of the submission, and it should explicitly judge whether the former outweighs the latter (or vice-versa). It should help the **authors** figure out what type of revision (if any) they should aim for, and it should help the **chairs** make accept/reject decisions. Like reviews, meta-reviews should be [specific](https://aclrollingreview.org/reviewerguidelines#2-be-specific-i1) (especially about the recommended revisions), and [professional in tone](https://aclrollingreview.org/reviewerguidelines#6-check-that-the-tone-is-professional-and-neutral-i4) (rather than rude/dismissive).
 
-The ARR **metareview score** is different from reviewer scores. It is meant to signal, both to the authors and to program chairs, the amount of work it would take for this paper to be publication-ready. [Like with reviews](https://aclrollingreview.org/reviewerguidelines#5-check-that-your-scores-reflect-the-review-i3), the score should be backed up by the meta-review text.
+🆕 The ARR **metareview score** has changed in February 2025 to be more aligned with reviewer scores. [Like with reviews](https://aclrollingreview.org/reviewerguidelines#5-check-that-your-scores-reflect-the-review-i3), the score should be backed up by the meta-review text. The new options are:
 
-![alt_text](images/guidelines/3-AC-overall-assessment.png "image_tooltip"){:width="70%"}
+```
+5 = Consider for Award: I think this paper could be considered for an outstanding paper award at an *ACL conference (up to top 2.5% papers).
+4.5 = Borderline Award
+4.0 = Conference: I think this paper could be accepted to an *ACL conference.
+3.5 = Borderline Conference
+3 = Findings: I think this paper could be accepted to the Findings of the ACL.
+2.5 = Borderline Findings
+2 = Resubmit next cycle: I think this paper needs substantial revisions that can be completed by the next ARR cycle.
+1.5 = Resubmit after next cycle: I think this paper needs substantial revisions that cannot be completed by the next ARR cycle.
+1 = Do not resubmit: This paper has to be fully redone, or it is not relevant to the *ACL community (e.g. it is in no way related to computational processing of language).
+```
+ 
+Outstanding papers should be either fascinating, controversial, surprising, impressive, or potentially field-changing. Awards will be decided based on the camera-ready version of the paper (see the [ACL award policy](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Awards_Policy)).
 
-So if, for example, many more experiments need to be done, then that probably means a major revision. But if the reviewers' questions — however many — could be answered simply by adding details to the paper, that probably means a minor revision (which the authors could do between acceptance and camera ready). This means that a paper may receive a 1, 2, 3 or (rarely) 4 from reviewers but be a “major revision” (3) from you, or a 4, 3, or (rarely) 2 from reviewers, but be a “minor revision” (4) from you.
+Starting with February 2025, ARR reviewers are asked to provide three scores: soundness, excitement, and overall recommendation. All papers recommended for Findings or main conference are expected to be sound and reproducible. The ACs should mostly follow the soundness assessment of the reviewers when they are in agreement, and they can weigh in when there is a disagreement or serious issues with reviews.
+
+The Findings/main conference distinction is about selecting among all the good papers those that are distinguished in some respect and have no other issues. There are not necessarily further improvements that could be recommended to the Findings papers. A main conference paper could be distinguished by excitement, novelty, impact, and/or other factors, considered case-by-case. Reviewer excitement is neither necessary nor sufficient condition: it is possible that the reviewers find the paper 'exciting', but the AC recommends it for Findings because some other consideration outweighs it. It is also possible for a less 'exciting' paper to be recommended for the main track. For example, improvements in efficiency of some algorithm, or creating a high-quality resource for a language/domain that does not yet have resources of that type may not sound very novel or exciting, but you may still consider it a significant contribution due to its potential impact (for its target community).
+
+The papers recommended for main conference, Findings and even awards may still have some minor points of improvement (e.g. clarifications, non-core references, data presentation). No paper is perfect, and the judgements should be relative to the pool of conference submissions, and not e.g. Nature papers.
+
+If you do not recommend the paper for either the main conference or Findings, the meta-review should clearly signal, both to the authors and to program chairs, what work it would take for this paper to be publication-ready. There are now two tiers for papers recommended for resubmission, depending on the amount of work that is needed. 
 
 **"Summary of reasons to publish"** is not just a list of contributions the authors state but rather the contributions that are acknowledged by the reviewers. **"Summary of suggested revisions"** should be clear revisions that you recommend and that you would expect the authors to address if they chose to revise-and-resubmit this paper.
 

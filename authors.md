@@ -67,15 +67,15 @@ The purpose of this form is to enable authors to notify the ACs about specific t
 
 Our list is further expanded to 12 issue types, marked as <span class='reviewIssue'>I1-12</span> (see screenshots below). Furthermore, most of these issues (except <span class='reviewIssue'>I5</span>,<span class='reviewIssue'>I8-9</span>,<span class='reviewIssue'>I11-12</span>) are explicitly referenced in the [ARR reviewer guidelines](/reviewerguidelines), so that you could easily search in the document and find the find the relevant section. For example, if you believe that a review has an issue of type <span class='reviewIssue'>I7</span>, you can simply search the [reviewer guidelines](/reviewerguidelines) document for "I7" to find the relevant section(s) quickly.
 
-![alt_text](images/guidelines/RI_form1.png "image_tooltip")
-![alt_text](images/guidelines/RI_form2.png "image_tooltip")
-![alt_text](images/guidelines/RI_form3.png "image_tooltip")
+![alt_text](images/guidelines/review_issue_report.png "review issue rating form")
 
 **The review issue reporting mechanism should be used only in the cases when the reviewer has not done due diligence.** It is generally not in the authors' interest to try to present scientific disagreements as a case of reviewer misconduct, or try to litigate minor issues that would likely not make much difference in the assessment of the paper. When flagging any issues with the reviews, the authors should provide a justification.
 
 The meta-review form now contains checkboxes for the ACs to specify whether any reported review issues were taken into account in the meta-review, or the AC found the complaint unreasonable.
 
 Starting from December 2024, there is a similar form for reporting serious issues with meta-reviews. 
+
+![alt_text](images/guidelines/metareview_issue_report.png "metareview issue rating form")
 
 # Step 3: Receive the final reviews and choose next step {#step3}
 
