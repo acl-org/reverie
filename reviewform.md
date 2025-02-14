@@ -20,34 +20,6 @@ What are the concerns that you have about the paper that would cause you to favo
 
 If you have any comments to the authors about how they may improve their paper, other than addressing the concerns above, please list them here.
 
-### Soundness
-
-How sound and thorough is this study? Does the paper clearly state scientific claims and provide adequate support for them? For experimental papers: consider the depth and/or breadth of the research questions investigated, technical soundness of experiments, methodological validity of evaluation. For position papers, surveys: consider the current state of the field is adequately represented, and main counter-arguments acknowledged. For resource papers: consider the data collection methodology, resulting data & the difference from existing resources are described in sufficient detail. Please adjust your baseline to account for the length of the paper.
-
-* 5 = Excellent: This study is one of the most thorough I have seen, given its type.
-* 4.5 
-* 4 = Strong: This study provides sufficient support for all of its claims/arguments. Some extra experiments could be nice, but not essential.
-* 3.5 
-* 3 = Acceptable: This study provides sufficient support for its major claims/arguments. Some minor points may need extra support or details.
-* 2.5 
-* 2 = Poor: Some of the main claims/arguments are not sufficiently supported. There are major technical/methodological problems.
-* 1.5 
-* 1 = Major Issues: This study is not yet sufficiently thorough to warrant publication or is not relevant to ACL.
-
-### Overall Assessment
-
-Would you personally like to see this paper presented at an *ACL event that invites submissions on this topic? For example, you may feel that a paper should be presented if its contributions would be useful to its target audience, deepen the understanding of a given topic, or help establish cross-disciplinary connections. Note: Even high-scoring papers can be in need of minor changes (e.g. typos, non-core missing refs, etc.).
-
-* 5 = Top-Notch: This is one of the best papers I read recently, of great interest for the (broad or narrow) sub-communities that might build on it
-* 4.5
-* 4 = This paper represents solid work, and is of significant interest for the (broad or narrow) sub-communities that might build on it
-* 3.5
-* 3 = Good: This paper makes a reasonable contribution, and might be of interest for some (broad or narrow) sub-communities, possibly with minor revisions 
-* 2.5
-* 2 = Revisions Needed: This paper has some merit, but also significant flaws, and needs work before it would be of interest to the community
-* 1.5
-* 1 = Major Revisions Needed: This paper has significant flaws, and needs substantial work before it would be of interest to the community
-* 0 = This paper is not relevant to the *ACL community (for example, is in no way related to natural language processing)
 
 ### Reviewer Confidence
 
@@ -57,16 +29,55 @@ Would you personally like to see this paper presented at an *ACL event that invi
 * 2 =  Willing to defend my evaluation, but it is fairly likely that I missed some details, didn't understand some central points, or can't be sure about the novelty of the work.
 * 1 = Not my area, or paper is very hard to understand. My evaluation is just an educated guess.
 
-### Best Paper
+### Soundness
 
-Could the camera-ready version of this paper merit consideration for an 'outstanding paper' award (up to 2.5% of accepted papers at *ACL conferences will be recognized in this way)? Outstanding papers should be either fascinating, controversial, surprising, impressive, or potentially field-changing. Awards will be decided based on the camera-ready version of the paper.
+Given that this is a short/long paper, is it sufficiently sound and thorough? Does it clearly state scientific claims and provide adequate support for them? For experimental papers: consider the depth and/or breadth of the research questions investigated, technical soundness of experiments, methodological validity of evaluation. For position papers, surveys: consider whether the current state of the field is adequately represented and main counter-arguments acknowledged. For resource papers: consider the data collection methodology, resulting data & the difference from existing resources are described in sufficient detail.
 
-* Yes
-* Maybe
-* No
+* 5 = Excellent: This study is one of the most thorough I have seen, given its type.
+* 4.5 
+* 4 = Strong: This study provides sufficient support for all of its claims. Some extra experiments could be nice, but not essential.
+* 3.5 
+* 3 = Acceptable: This study provides sufficient support for its main claims. Some minor points may need extra support or details.
+* 2.5 
+* 2 = Poor: Some of the main claims are not sufficiently supported. There are major technical/methodological problems.
+* 1.5 
+* 1 = Major Issues: This study is not yet sufficiently thorough to warrant publication or is not relevant to ACL.
 
-If the answer is Yes or Maybe, please justify your decision:
+## Excitement
 
+How exciting is this paper for you? Excitement is *subjective*, and does not necessarily follow what is popular in the field. We may perceive papers as transformational/innovative/surprising, e.g. because they present conceptual breakthroughs or evidence challenging common assumptions/methods/datasets/metrics. We may be excited about the possible impact of the paper on some community (not necessarily large or our own), e.g. lowering barriers, reducing costs, enabling new applications. We may be excited for papers that are relevant, inspiring, or useful for our own research. These factors may combine in different ways for different reviewers.
+
+* 5 = Highly Exciting: I would recommend this paper to others and/or attend its presentation in a conference.
+* 4.5
+* 4 = Exciting: I would mention this paper to others and/or make an effort to attend its presentation in a conference.
+* 3.5
+* 3 = Interesting: I might mention some points of this paper to others and/or attend its presentation in a conference if there's time.
+* 2.5
+* 2 = Potentially Interesting: this paper does not resonate with me, but it might with others in the *ACL community.
+* 1.5
+* 1 = Not Exciting: this paper does not resonate with me, and I don't think it would with others in the *ACL community (e.g. it is in no way related to computational processing of language).
+
+### Overall Assessment
+
+If this paper was committed to an *ACL conference, do you believe it should be accepted? If you recommend conference, Findings and or even award consideration, you can still suggest minor revisions (e.g. typos, non-core missing refs, etc.).
+
+Outstanding papers should be either fascinating, controversial, surprising, impressive, or potentially field-changing. Awards will be decided based on the camera-ready version of the paper. ACL award policy: https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Awards_Policy 
+
+Main vs Findings papers: the main criteria for Findings are soundness and reproducibility. Conference recommendations may also consider novelty, impact and other factors.
+
+* 5 = Consider for Award: I think this paper could be considered for an outstanding paper award at an *ACL conference (up to top 2.5% papers).
+* 4.5 = Borderline Award
+* 4 = Conference: I think this paper could be accepted to an *ACL conference.
+* 3.5 = Borderline Conference
+* 3 = Findings: I think this paper could be accepted to the Findings of the ACL. 
+* 2.5 = Borderline Findings
+* 2 = Resubmit next cycle: I think this paper needs substantial revisions that can be completed by the next ARR cycle.
+* 1.5 = Resubmit after next cycle: I think this paper needs substantial revisions that cannot be completed by the next ARR cycle.
+* 1 = Do not resubmit: This paper has to be fully redone, or it is not relevant to the *ACL community (e.g. it is in no way related to computational processing of language).
+
+### Best paper justification
+
+If your overall assessment for this paper is either 'Consider for award' or 'Borderline award', please briefly describe why.
 
 ## Further Questions
 
