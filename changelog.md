@@ -24,14 +24,14 @@ One major benefit of ARR is that we can steadily improve the peer review process
 ## February 2025
 
 * Improving submission and review forms (leads: Anna, ACL and EMNLP PCs)
-* Updating the [workload requirement](_posts/2025-02-10-reviewing-workload-adjustment.md), in consultation with ACL'25 PCs
-* Corresponding updates to the guidelines and email templates
+* Updating the [workload requirement](_posts/2025-02-10-reviewing-workload-adjustment.md), in consultation with ACL'25 PCs (leads: Jing, Xiaodan)
+* Corresponding updates to the guidelines and email templates (leads: Anna)
 
 
 ## December 2024
 
 * Updating the submission page to reflect the updated CFP and author instructions (leads: Anna, Michael)
-* Adding a form for reporting issues with meta-reviews (leads: Anna, Jonathan, help from Steven Bethard)
+* Adding a form for reporting issues with meta-reviews (leads: Anna, Jonathan, Freda, help from Steven Bethard)
 * Updating ACLPUB based on common issues in submissions flagged for desk rejection (leads: Anna, Michael, Viviane, Sarv, help from Steven Bethard and Matt Post)
 * Onboarding for the new editorial assistant, workflow manager, and new co-CTO (leads: Thamar, Jonathan)
 * Updating Freshdesk setup and licensing (leads: Santu, Anna, Sudipta, with help from Jenn Rachford and David Yarowski)

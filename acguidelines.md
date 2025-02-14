@@ -222,17 +222,25 @@ Generally, a meta-review is a summary of the reviews, discussions, and author re
 
 🆕 The ARR **metareview score** has changed in February 2025 to be more aligned with reviewer scores. [Like with reviews](https://aclrollingreview.org/reviewerguidelines#5-check-that-your-scores-reflect-the-review-i3), the score should be backed up by the meta-review text. The new options are:
 
-```
+<div class="checklist" markdown='1'>
 5 = Consider for Award: I think this paper could be considered for an outstanding paper award at an *ACL conference (up to top 2.5% papers).
+
 4.5 = Borderline Award
+
 4.0 = Conference: I think this paper could be accepted to an *ACL conference.
+
 3.5 = Borderline Conference
+
 3 = Findings: I think this paper could be accepted to the Findings of the ACL.
+
 2.5 = Borderline Findings
+
 2 = Resubmit next cycle: I think this paper needs substantial revisions that can be completed by the next ARR cycle.
+
 1.5 = Resubmit after next cycle: I think this paper needs substantial revisions that cannot be completed by the next ARR cycle.
+
 1 = Do not resubmit: This paper has to be fully redone, or it is not relevant to the *ACL community (e.g. it is in no way related to computational processing of language).
-```
+</div>
  
 Outstanding papers should be either fascinating, controversial, surprising, impressive, or potentially field-changing. Awards will be decided based on the camera-ready version of the paper (see the [ACL award policy](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Awards_Policy)).
 
