@@ -77,6 +77,8 @@ Starting from December 2024, there is a similar form for reporting serious issue
 
 # Step 3: Receive the final reviews and choose next step {#step3}
 
+## Consider your options
+
 Once the final reviews (including the meta-review) are delivered, you will know how the paper has been evaluated. There will be at least 3 reviews and a meta-review. Each [review](/reviewform) will provide text and scores conveying the reviewer's impressions of the paper and suggestions for improvement. The [meta-review](/actioneditorform) will give an overall impression from the Area Chair's perspective and indicate whether the paper would benefit from revision or whether it might merit publication in its current form.
 
 You have several choices for the next step of the paper:
@@ -105,7 +107,7 @@ Please see the list of issues that can be reported through the meta-review issue
 
 A: Generally, meta-reviewers are summarizing the discussion, and cannot be expected to mention every detail of either reviews or author response (especially if it is too long). They may also skip the mention of the response if they do not believe it to satisfactorily address the issue. In such cases, triggering more work and interaction between chairs is more likely to get them annoyed with you, rather than help your case. 
 
-The recommended length of the discussion at ARR is maximum 2 author responses per review thread. The ACs are not expected to read more than that. If they missed a response that conclusively resolves an issue on which evaluation hinges, but neither reviewers nor AC noticed it, please flag it (<span class='reviewIssue'>MI5</span>), explain the issue and provide a link to the comment.
+The recommended length of the discussion at ARR is maximum 2 author responses per review thread. The ACs are *not* obligated to read more than that. If there is an author response that is within that length, and that conclusively resolves an issue on which evaluation hinges, but neither reviewers nor AC noticed it: please flag it (<span class='reviewIssue'>MI5</span>), explain the issue and provide a link to the comment.
 
 # Step 4: Resubmit for another round of review (optional) {#step4}
 
