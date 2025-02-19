@@ -6,38 +6,38 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-The schedule for 2024 is:
+From October 2022 to February 2025, ARR ran 8-week review cycles, with submission deadlines [on the 15th of every second month](/key-changes-in-the-october-cycle/). After extensive deliberation and [soliciting community feedback](https://www.aclweb.org/portal/content/acl-survey-what-should-acl-peer-review-process-be-future), the  [ACL Peer Review Committee](https://www.aclweb.org/adminwiki/index.php/ACL_Peer_Review_Standing_Committee) recommended to ACL exec to switch to 10-week cycles. The new schedule will be in action, starting after February 2025 cycle. The full committtee report is available in the [adminwiki](https://www.aclweb.org/adminwiki/images/9/9e/COPR-5-cycle-report-to-publish.pdf).
+
+This means that instead of 6 cycles a year there will generally be 5, but with more reasonable timelines for the review tasks and author response, as well as platform maintenance. It will allow the cycles to always start on Mondays, and develop a consistent schedule that clashes with weekends less (a recurrent problem in the past). In 2025, due to the switch to 10-week cycles enacted relatively late in the year, there will be 4 review cycles in total.
+
+The new submission dates in 2025 are as follows:
 
 | Cycle | Submission | Author Response | Cycle End |
 | :---: | :-------------: | :-------------: | :-------: |
-| [February 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/February) | Feb 1st - Feb 15th | March 26th - 30th | April 15th |
-| [April 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/April) | April 4th - April 15th | May 23rd - 27th | June 15th |
-| [June 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/June) | June 4th - June 15th | July 25th - 30th | August 15th |
-| August 2024 | August 15th | September 25th - 30th | October 15th |
-| October 2024 | October 15th | November 22nd - 25th | December 15th |
-| December 2024 | December 15th | January 24th - 29th | February 15th |
-| Feburary 2025 | Feburary 15th | March 27th - April 1st | April 15th |
+| Feburary 2025 | Feburary 15 | March 27 - April 1 | April 15 |
+| May 2025 | May 19 | TBA | July 27 |
+| July 2025 | July 28 | TBA | October 5|
+| October 2025 | October 6 | TBA | December 14 |
+| January 2026 | January 5 | TBA | March 15 |
 
-ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
-
-[^1]: In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](/six-week-cycles/). As of October 2022, we've moved to [every 2 months](/key-changes-in-the-october-cycle/).
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
 ## Submission to Participating Venues
 
-Any paper that is not desk rejected will receive reviews. Once authors have reviews they may:
-- revise and resubmit for another round of reviews (typically papers will go back to the same action editor and reviewers)
-- submit their paper *and reviews* to a publication venue
+Any paper that is not desk rejected will receive reviews. Once authors have reviews they may choose to [revise and resubmit](/authors.md#step4) for another round of reviews, or [commit their paper *and reviews* to a publication venue](/authors.md#step5).
 
-Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](/organizers).
+The upcoming publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](/organizers).
 
 | Venue | Final ARR Submission Date | Commitment Date |
 | :---: | :-----------------------: | :-------------: |
-| [NAACL 2025](https://2025.naacl.org/) | October 15th, 2024 | December 16th, 2024 |
-| [ACL 2025](https://2025.aclweb.org/) | February 15th, 2025 | April 10th, 2025 |
+| [NAACL 2025](https://2025.naacl.org/) | October 15, 2024 | December 16, 2024 |
+| [ACL 2025](https://2025.aclweb.org/) | February 15, 2025 | April 10, 2025 |
+| [EMNLP 2025](https://2025.emnlp.org/) | May 19, 2025 | July 31, 2025 |
 
 ## Past Venues that Accepted ARR Submissions
+
+In 2022-2023, most *ACL events accepted ARR submissions while also running a direct submission process. Starting from 2024, all main *ACL conferences used ARR exclusively.
 
 - [EMNLP 2021](https://2021.emnlp.org/)
 - [INLG 2021](https://inlg2021.github.io/pages/calls.html)
