@@ -34,6 +34,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [NAACL 2025](https://2025.naacl.org/) | October 15, 2024 | December 16, 2024 |
 | [ACL 2025](https://2025.aclweb.org/) | February 15, 2025 | April 10, 2025 |
 | [EMNLP 2025](https://2025.emnlp.org/) | May 19, 2025 | July 31, 2025 |
+| AACL 2025 | July 28, 2025 | October 5, 2025 |
 
 ## Past Venues that Accepted ARR Submissions
 
