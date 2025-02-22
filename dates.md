@@ -35,6 +35,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [ACL 2025](https://2025.aclweb.org/) | February 15, 2025 | April 10, 2025 |
 | [EMNLP 2025](https://2025.emnlp.org/) | May 19, 2025 | July 31, 2025 |
 | AACL 2025 | July 28, 2025 | October 5, 2025 |
+| [ClimateNLP 2025](https://nlp4climate.github.io/) | March 25, 2025 | May 16, 2025 |
 
 ## Past Venues that Accepted ARR Submissions
 
