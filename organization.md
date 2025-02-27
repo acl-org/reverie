@@ -142,7 +142,7 @@ Contact: `editors at aclrollingreview.org`
   <img src="images/people/sudipta_kar.jpg" alt="Sudipta Kar">
   <div>
     <a href="https://sudiptakar.info/">Sudipta Kar</a><br>
-    Amazon (Co-Chief Technical Officer)
+    Oracle Health AI (Co-Chief Technical Officer)
   </div>
 </div>
 
